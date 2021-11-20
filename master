@@ -9,8 +9,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 14">
 <meta name=Originator content="Microsoft Word 14">
-<link rel=File-List href="модели%20жц%20ис.files/filelist.xml">
-<link rel=Edit-Time-Data href="модели%20жц%20ис.files/editdata.mso">
+<link rel=File-List href="Г¬Г®Г¤ГҐГ«ГЁ%20Г¦Г¶%20ГЁГ±.files/filelist.xml">
+<link rel=Edit-Time-Data href="Г¬Г®Г¤ГҐГ«ГЁ%20Г¦Г¶%20ГЁГ±.files/editdata.mso">
 <!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
@@ -41,9 +41,9 @@ w\:* {behavior:url(#default#VML);}
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=themeData href="модели%20жц%20ис.files/themedata.thmx">
+<link rel=themeData href="Г¬Г®Г¤ГҐГ«ГЁ%20Г¦Г¶%20ГЁГ±.files/themedata.thmx">
 <link rel=colorSchemeMapping
-href="модели%20жц%20ис.files/colorschememapping.xml">
+href="Г¬Г®Г¤ГҐГ«ГЁ%20Г¦Г¶%20ГЁГ±.files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:HideSpellingErrors/>
@@ -380,8 +380,8 @@ h1
 	{mso-style-priority:9;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"Заголовок 1 Знак";
-	mso-style-next:Обычный;
+	mso-style-link:"Г‡Г ГЈГ®Г«Г®ГўГ®ГЄ 1 Г‡Г­Г ГЄ";
+	mso-style-next:ГЋГЎГ»Г·Г­Г»Г©;
 	margin-top:24.0pt;
 	margin-right:0cm;
 	margin-bottom:0cm;
@@ -410,7 +410,7 @@ h1
 	mso-fareast-language:EN-US;}
 p.MsoHeader, li.MsoHeader, div.MsoHeader
 	{mso-style-priority:99;
-	mso-style-link:"Верхний колонтитул Знак";
+	mso-style-link:"Г‚ГҐГ°ГµГ­ГЁГ© ГЄГ®Г«Г®Г­ГІГЁГІГіГ« Г‡Г­Г ГЄ";
 	margin:0cm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -427,7 +427,7 @@ p.MsoHeader, li.MsoHeader, div.MsoHeader
 	mso-fareast-language:EN-US;}
 p.MsoFooter, li.MsoFooter, div.MsoFooter
 	{mso-style-priority:99;
-	mso-style-link:"Нижний колонтитул Знак";
+	mso-style-link:"ГЌГЁГ¦Г­ГЁГ© ГЄГ®Г«Г®Г­ГІГЁГІГіГ« Г‡Г­Г ГЄ";
 	margin:0cm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -445,7 +445,7 @@ p.MsoFooter, li.MsoFooter, div.MsoFooter
 p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
 	{mso-style-noshow:yes;
 	mso-style-priority:99;
-	mso-style-link:"Текст выноски Знак";
+	mso-style-link:"Г’ГҐГЄГ±ГІ ГўГ»Г­Г®Г±ГЄГЁ Г‡Г­Г ГЄ";
 	margin:0cm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -567,11 +567,11 @@ p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxS
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 span.1
-	{mso-style-name:"Заголовок 1 Знак";
+	{mso-style-name:"Г‡Г ГЈГ®Г«Г®ГўГ®ГЄ 1 Г‡Г­Г ГЄ";
 	mso-style-priority:9;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Заголовок 1";
+	mso-style-link:"Г‡Г ГЈГ®Г«Г®ГўГ®ГЄ 1";
 	mso-ansi-font-size:14.0pt;
 	mso-bidi-font-size:14.0pt;
 	font-family:"Cambria","serif";
@@ -588,12 +588,12 @@ span.1
 	mso-themeshade:191;
 	font-weight:bold;}
 span.a
-	{mso-style-name:"Текст выноски Знак";
+	{mso-style-name:"Г’ГҐГЄГ±ГІ ГўГ»Г­Г®Г±ГЄГЁ Г‡Г­Г ГЄ";
 	mso-style-noshow:yes;
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Текст выноски";
+	mso-style-link:"Г’ГҐГЄГ±ГІ ГўГ»Г­Г®Г±ГЄГЁ";
 	mso-ansi-font-size:8.0pt;
 	mso-bidi-font-size:8.0pt;
 	font-family:"Tahoma","sans-serif";
@@ -601,21 +601,21 @@ span.a
 	mso-hansi-font-family:Tahoma;
 	mso-bidi-font-family:Tahoma;}
 span.a0
-	{mso-style-name:"Верхний колонтитул Знак";
+	{mso-style-name:"Г‚ГҐГ°ГµГ­ГЁГ© ГЄГ®Г«Г®Г­ГІГЁГІГіГ« Г‡Г­Г ГЄ";
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Верхний колонтитул";
+	mso-style-link:"Г‚ГҐГ°ГµГ­ГЁГ© ГЄГ®Г«Г®Г­ГІГЁГІГіГ«";
 	mso-ansi-font-size:14.0pt;
 	font-family:"Times New Roman","serif";
 	mso-ascii-font-family:"Times New Roman";
 	mso-hansi-font-family:"Times New Roman";}
 span.a1
-	{mso-style-name:"Нижний колонтитул Знак";
+	{mso-style-name:"ГЌГЁГ¦Г­ГЁГ© ГЄГ®Г«Г®Г­ГІГЁГІГіГ« Г‡Г­Г ГЄ";
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Нижний колонтитул";
+	mso-style-link:"ГЌГЁГ¦Г­ГЁГ© ГЄГ®Г«Г®Г­ГІГЁГІГіГ«";
 	mso-ansi-font-size:14.0pt;
 	font-family:"Times New Roman","serif";
 	mso-ascii-font-family:"Times New Roman";
@@ -639,17 +639,17 @@ span.a1
 	line-height:115%;}
  /* Page Definitions */
  @page
-	{mso-footnote-separator:url("модели%20жц%20ис.files/header.htm") fs;
-	mso-footnote-continuation-separator:url("модели%20жц%20ис.files/header.htm") fcs;
-	mso-endnote-separator:url("модели%20жц%20ис.files/header.htm") es;
-	mso-endnote-continuation-separator:url("модели%20жц%20ис.files/header.htm") ecs;}
+	{mso-footnote-separator:url("Г¬Г®Г¤ГҐГ«ГЁ%20Г¦Г¶%20ГЁГ±.files/header.htm") fs;
+	mso-footnote-continuation-separator:url("Г¬Г®Г¤ГҐГ«ГЁ%20Г¦Г¶%20ГЁГ±.files/header.htm") fcs;
+	mso-endnote-separator:url("Г¬Г®Г¤ГҐГ«ГЁ%20Г¦Г¶%20ГЁГ±.files/header.htm") es;
+	mso-endnote-continuation-separator:url("Г¬Г®Г¤ГҐГ«ГЁ%20Г¦Г¶%20ГЁГ±.files/header.htm") ecs;}
 @page WordSection1
 	{size:595.3pt 841.9pt;
 	margin:2.0cm 42.5pt 2.0cm 3.0cm;
 	mso-header-margin:35.4pt;
 	mso-footer-margin:35.4pt;
 	mso-title-page:yes;
-	mso-footer:url("модели%20жц%20ис.files/header.htm") f1;
+	mso-footer:url("Г¬Г®Г¤ГҐГ«ГЁ%20Г¦Г¶%20ГЁГ±.files/header.htm") f1;
 	mso-paper-source:0;}
 div.WordSection1
 	{page:WordSection1;}
@@ -720,7 +720,7 @@ ul
 <style>
  /* Style Definitions */
  table.MsoNormalTable
-	{mso-style-name:"Обычная таблица";
+	{mso-style-name:"ГЋГЎГ»Г·Г­Г Гї ГІГ ГЎГ«ГЁГ¶Г ";
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
 	mso-style-noshow:yes;
@@ -759,22 +759,22 @@ ul
 line-height:normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:
 none'><span style='font-size:10.0pt;mso-fareast-font-family:"Times New Roman";
 mso-bidi-font-family:"Times New Roman";mso-fareast-language:RU;mso-bidi-font-weight:
-bold'>МИНИСТЕРСТВО ОБРАЗОВАНИЯ И НАУКИ РОССИЙСКОЙ ФЕДЕРАЦИИ<o:p></o:p></span></p>
+bold'>ГЊГ€ГЌГ€Г‘Г’Г…ГђГ‘Г’Г‚ГЋ ГЋГЃГђГЂГ‡ГЋГ‚ГЂГЌГ€Гџ Г€ ГЌГЂГ“ГЉГ€ ГђГЋГ‘Г‘Г€Г‰Г‘ГЉГЋГ‰ Г”Г…Г„Г…ГђГЂГ–Г€Г€<o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='text-align:center;line-height:normal;
 mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
 style='font-size:12.0pt;mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Times New Roman";mso-fareast-language:RU'>федеральное
-государственное автономное образовательное учреждение высшего образования<o:p></o:p></span></p>
+mso-bidi-font-family:"Times New Roman";mso-fareast-language:RU'>ГґГҐГ¤ГҐГ°Г Г«ГјГ­Г®ГҐ
+ГЈГ®Г±ГіГ¤Г Г°Г±ГІГўГҐГ­Г­Г®ГҐ Г ГўГІГ®Г­Г®Г¬Г­Г®ГҐ Г®ГЎГ°Г Г§Г®ГўГ ГІГҐГ«ГјГ­Г®ГҐ ГіГ·Г°ГҐГ¦Г¤ГҐГ­ГЁГҐ ГўГ»Г±ГёГҐГЈГ® Г®ГЎГ°Г Г§Г®ГўГ Г­ГЁГї<o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='text-align:center;line-height:normal;
 mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
 style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
-"Times New Roman";mso-fareast-language:RU;mso-bidi-font-weight:bold'>«</span><span
+"Times New Roman";mso-fareast-language:RU;mso-bidi-font-weight:bold'>В«</span><span
 style='font-size:10.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
-"Times New Roman";mso-fareast-language:RU;mso-bidi-font-weight:bold'>САНКТ-ПЕТЕРБУРГСКИЙ
-ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ <br>
-АЭРОКОСМИЧЕСКОГО ПРИБОРОСТРОЕНИЯ»<o:p></o:p></span></p>
+"Times New Roman";mso-fareast-language:RU;mso-bidi-font-weight:bold'>Г‘ГЂГЌГЉГ’-ГЏГ…Г’Г…ГђГЃГ“ГђГѓГ‘ГЉГ€Г‰
+ГѓГЋГ‘Г“Г„ГЂГђГ‘Г’Г‚Г…ГЌГЌГ›Г‰ Г“ГЌГ€Г‚Г…ГђГ‘Г€Г’Г…Г’ <br>
+ГЂГќГђГЋГЉГЋГ‘ГЊГ€Г—Г…Г‘ГЉГЋГѓГЋ ГЏГђГ€ГЃГЋГђГЋГ‘Г’ГђГЋГ…ГЌГ€ГџВ»<o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='text-align:center;line-height:normal;
 mso-pagination:none;mso-layout-grid-align:none;text-autospace:none'><span
@@ -784,8 +784,8 @@ style='font-size:10.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-
 <p class=MsoNormal align=center style='margin-top:24.0pt;text-align:center;
 line-height:normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:
 none'><span style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Times New Roman";mso-fareast-language:RU'>ИНСТИТУТ
-ТЕХНОЛОГИЙ ПРЕДПРИНИМАТЕЛЬСТВА<o:p></o:p></span></p>
+mso-bidi-font-family:"Times New Roman";mso-fareast-language:RU'>Г€ГЌГ‘Г’Г€Г’Г“Г’
+Г’Г…Г•ГЌГЋГ‹ГЋГѓГ€Г‰ ГЏГђГ…Г„ГЏГђГ€ГЌГ€ГЊГЂГ’Г…Г‹ГњГ‘Г’Г‚ГЂ<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:6.0pt;mso-pagination:none;mso-layout-grid-align:
 none;text-autospace:none'><span style='font-size:12.0pt;line-height:150%;
@@ -811,7 +811,7 @@ mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center;line-height:normal'><span
   style='font-size:12.0pt;mso-bidi-font-size:14.0pt;mso-bidi-font-family:"Times New Roman";
-  background:white'>кандидат экономических наук</span><span style='font-size:
+  background:white'>ГЄГ Г­Г¤ГЁГ¤Г ГІ ГЅГЄГ®Г­Г®Г¬ГЁГ·ГҐГ±ГЄГЁГµ Г­Г ГіГЄ</span><span style='font-size:
   12.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
   background:yellow;mso-highlight:yellow;mso-fareast-language:RU'><o:p></o:p></span></p>
   </td>
@@ -828,7 +828,7 @@ mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
   line-height:normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:
   none'><span style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
   mso-bidi-font-family:"Times New Roman";background:yellow;mso-highlight:yellow;
-  mso-fareast-language:RU'><span style='mso-spacerun:yes'> </span><o:p></o:p></span></p>
+  mso-fareast-language:RU'><span style='mso-spacerun:yes'>В </span><o:p></o:p></span></p>
   </td>
   <td width=19 style='width:13.95pt;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-top:7.0pt;text-align:center;
@@ -841,7 +841,7 @@ mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center;line-height:normal'><span
   style='font-size:12.0pt;mso-bidi-font-size:14.0pt;mso-bidi-font-family:"Times New Roman";
-  mso-fareast-language:RU'>Е. И. Карасева </span><span style='mso-bidi-font-size:
+  mso-fareast-language:RU'>Г…. Г€. ГЉГ Г°Г Г±ГҐГўГ  </span><span style='mso-bidi-font-size:
   14.0pt;mso-bidi-font-family:"Times New Roman";mso-fareast-language:RU'><o:p></o:p></span></p>
   </td>
  </tr>
@@ -851,7 +851,7 @@ mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
   mso-line-height-rule:exactly;mso-pagination:none;mso-layout-grid-align:none;
   text-autospace:none'><span style='font-size:10.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  RU'>должность, уч. степень, звание<o:p></o:p></span></p>
+  RU'>Г¤Г®Г«Г¦Г­Г®Г±ГІГј, ГіГ·. Г±ГІГҐГЇГҐГ­Гј, Г§ГўГ Г­ГЁГҐ<o:p></o:p></span></p>
   </td>
   <td width=16 style='width:11.8pt;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='line-height:9.0pt;mso-line-height-rule:exactly;
@@ -864,7 +864,7 @@ mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
   mso-line-height-rule:exactly;mso-pagination:none;mso-layout-grid-align:none;
   text-autospace:none'><span style='font-size:10.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  RU'>подпись, дата<o:p></o:p></span></p>
+  RU'>ГЇГ®Г¤ГЇГЁГ±Гј, Г¤Г ГІГ <o:p></o:p></span></p>
   </td>
   <td width=19 style='width:13.95pt;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='line-height:9.0pt;mso-line-height-rule:exactly;
@@ -877,7 +877,7 @@ mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
   mso-line-height-rule:exactly;mso-pagination:none;mso-layout-grid-align:none;
   text-autospace:none'><span style='font-size:10.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  RU'>инициалы, фамилия<o:p></o:p></span></p>
+  RU'>ГЁГ­ГЁГ¶ГЁГ Г«Г», ГґГ Г¬ГЁГ«ГЁГї<o:p></o:p></span></p>
   </td>
  </tr>
 </table>
@@ -895,7 +895,7 @@ mso-bidi-font-family:"Times New Roman";mso-fareast-language:RU'><o:p>&nbsp;</o:p
   margin-bottom:18.0pt;margin-left:0cm;text-align:center;line-height:normal;
   mso-pagination:none;page-break-after:avoid;mso-layout-grid-align:none;
   text-autospace:none'><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
-  Calibri;mso-bidi-font-family:"Times New Roman"'>Жизненный цикл ИС<o:p></o:p></span></p>
+  Calibri;mso-bidi-font-family:"Times New Roman"'>Г†ГЁГ§Г­ГҐГ­Г­Г»Г© Г¶ГЁГЄГ« Г€Г‘<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1'>
@@ -921,7 +921,7 @@ mso-bidi-font-family:"Times New Roman";mso-fareast-language:RU'><o:p>&nbsp;</o:p
   center;line-height:normal;mso-pagination:none;mso-layout-grid-align:none;
   text-autospace:none'><span style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  RU'>по дисциплине: Управление инновациями<o:p></o:p></span></p>
+  RU'>ГЇГ® Г¤ГЁГ±Г¶ГЁГЇГ«ГЁГ­ГҐ: Г“ГЇГ°Г ГўГ«ГҐГ­ГЁГҐ ГЁГ­Г­Г®ГўГ Г¶ГЁГїГ¬ГЁ<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
@@ -939,7 +939,7 @@ mso-bidi-font-family:"Times New Roman";mso-fareast-language:RU'><o:p>&nbsp;</o:p
 0cm;margin-left:21.3pt;margin-bottom:.0001pt;text-indent:-21.3pt;mso-pagination:
 none;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
 12.0pt;line-height:150%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
-"Times New Roman";mso-fareast-language:RU'>РАБОТУ ВЫПОЛНИЛА<o:p></o:p></span></p>
+"Times New Roman";mso-fareast-language:RU'>ГђГЂГЃГЋГ’Г“ Г‚Г›ГЏГЋГ‹ГЌГ€Г‹ГЂ<o:p></o:p></span></p>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=671
  style='width:503.25pt;margin-left:-15.9pt;border-collapse:collapse;mso-padding-alt:
@@ -949,8 +949,8 @@ none;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
   <p class=MsoNormal style='margin-top:7.0pt;line-height:normal;mso-pagination:
   none;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
   12.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-  mso-fareast-language:RU'>СТУДЕНТКА<span style='mso-spacerun:yes'>  </span>ГР.
-  №<o:p></o:p></span></p>
+  mso-fareast-language:RU'>Г‘Г’Г“Г„Г…ГЌГ’ГЉГЂ<span style='mso-spacerun:yes'>В  </span>ГѓГђ.
+  В№<o:p></o:p></span></p>
   </td>
   <td width=104 colspan=2 valign=bottom style='width:77.95pt;border:none;
   border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;
@@ -958,7 +958,7 @@ none;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
   <p class=MsoNormal style='margin-top:7.0pt;line-height:normal;mso-pagination:
   none;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
   12.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-  mso-fareast-language:RU'>8726з<o:p></o:p></span></p>
+  mso-fareast-language:RU'>8726Г§<o:p></o:p></span></p>
   </td>
   <td width=19 valign=bottom style='width:14.2pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-top:7.0pt;text-align:center;
@@ -986,7 +986,7 @@ none;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
   <p class=MsoNormal align=center style='margin-top:7.0pt;text-align:center;
   line-height:normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:
   none'><span style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:RU'>Т.И. Березкина<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:RU'>Г’.Г€. ГЃГҐГ°ГҐГ§ГЄГЁГ­Г <o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
@@ -1016,7 +1016,7 @@ none;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
   mso-line-height-rule:exactly;mso-pagination:none;mso-layout-grid-align:none;
   text-autospace:none'><span style='font-size:10.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  RU'>подпись, дата<o:p></o:p></span></p>
+  RU'>ГЇГ®Г¤ГЇГЁГ±Гј, Г¤Г ГІГ <o:p></o:p></span></p>
   </td>
   <td width=19 style='width:14.1pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='line-height:9.0pt;mso-line-height-rule:exactly;
@@ -1029,7 +1029,7 @@ none;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
   mso-line-height-rule:exactly;mso-pagination:none;mso-layout-grid-align:none;
   text-autospace:none'><span style='font-size:10.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  RU'>инициалы, фамилия<o:p></o:p></span></p>
+  RU'>ГЁГ­ГЁГ¶ГЁГ Г«Г», ГґГ Г¬ГЁГ«ГЁГї<o:p></o:p></span></p>
   </td>
  </tr>
  <![if !supportMisalignedColumns]>
@@ -1048,49 +1048,49 @@ none;mso-layout-grid-align:none;text-autospace:none'><span style='font-size:
 <p class=MsoNormal align=center style='margin-top:102.0pt;text-align:center;
 line-height:normal;mso-pagination:none;mso-layout-grid-align:none;text-autospace:
 none'><span style='font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Times New Roman";mso-fareast-language:RU'>Санкт-Петербург
+mso-bidi-font-family:"Times New Roman";mso-fareast-language:RU'>Г‘Г Г­ГЄГІ-ГЏГҐГІГҐГ°ГЎГіГ°ГЈ
 2021<o:p></o:p></span></p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal>Модель жизненного цикла (ЖЦ) ИС — структура, определяющая
-последовательность выполнения и взаимосвязи процессов, действий и задач на
-протяжении жизненного цикла. Модель жизненного цикла зависит от специфики,
-масштаба и сложности проекта и специфики условий, в которых система создается и
-функционирует.</p>
+<p class=MsoNormal>ГЊГ®Г¤ГҐГ«Гј Г¦ГЁГ§Г­ГҐГ­Г­Г®ГЈГ® Г¶ГЁГЄГ«Г  (Г†Г–) Г€Г‘ В— Г±ГІГ°ГіГЄГІГіГ°Г , Г®ГЇГ°ГҐГ¤ГҐГ«ГїГѕГ№Г Гї
+ГЇГ®Г±Г«ГҐГ¤Г®ГўГ ГІГҐГ«ГјГ­Г®Г±ГІГј ГўГ»ГЇГ®Г«Г­ГҐГ­ГЁГї ГЁ ГўГ§Г ГЁГ¬Г®Г±ГўГїГ§ГЁ ГЇГ°Г®Г¶ГҐГ±Г±Г®Гў, Г¤ГҐГ©Г±ГІГўГЁГ© ГЁ Г§Г Г¤Г Г· Г­Г 
+ГЇГ°Г®ГІГїГ¦ГҐГ­ГЁГЁ Г¦ГЁГ§Г­ГҐГ­Г­Г®ГЈГ® Г¶ГЁГЄГ«Г . ГЊГ®Г¤ГҐГ«Гј Г¦ГЁГ§Г­ГҐГ­Г­Г®ГЈГ® Г¶ГЁГЄГ«Г  Г§Г ГўГЁГ±ГЁГІ Г®ГІ Г±ГЇГҐГ¶ГЁГґГЁГЄГЁ,
+Г¬Г Г±ГёГІГ ГЎГ  ГЁ Г±Г«Г®Г¦Г­Г®Г±ГІГЁ ГЇГ°Г®ГҐГЄГІГ  ГЁ Г±ГЇГҐГ¶ГЁГґГЁГЄГЁ ГіГ±Г«Г®ГўГЁГ©, Гў ГЄГ®ГІГ®Г°Г»Гµ Г±ГЁГ±ГІГҐГ¬Г  Г±Г®Г§Г¤Г ГҐГІГ±Гї ГЁ
+ГґГіГ­ГЄГ¶ГЁГ®Г­ГЁГ°ГіГҐГІ.</p>
 
-<p class=MsoNormal>Модель ЖЦ ИС включает в себя: </p>
-
-<p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
-mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-стадии; </p>
+<p class=MsoNormal>ГЊГ®Г¤ГҐГ«Гј Г†Г– Г€Г‘ ГўГЄГ«ГѕГ·Г ГҐГІ Гў Г±ГҐГЎГї: </p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-результаты выполнения работ на каждой стадии; </p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+Г±ГІГ Г¤ГЁГЁ; </p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-ключевые события — точки завершения работ и принятия решений. </p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+Г°ГҐГ§ГіГ«ГјГІГ ГІГ» ГўГ»ГЇГ®Г«Г­ГҐГ­ГЁГї Г°Г ГЎГ®ГІ Г­Г  ГЄГ Г¦Г¤Г®Г© Г±ГІГ Г¤ГЁГЁ; </p>
 
-<p class=MsoNormal>Модель жизненного цикла отражает различные состояния
-системы, начиная с момента возникновения необходимости в данной ИС и заканчивая
-моментом ее полного выхода из употребления. </p>
+<p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+ГЄГ«ГѕГ·ГҐГўГ»ГҐ Г±Г®ГЎГ»ГІГЁГї В— ГІГ®Г·ГЄГЁ Г§Г ГўГҐГ°ГёГҐГ­ГЁГї Г°Г ГЎГ®ГІ ГЁ ГЇГ°ГЁГ­ГїГІГЁГї Г°ГҐГёГҐГ­ГЁГ©. </p>
 
-<p class=MsoNormal>Типы моделей жизненного цикла ИС В настоящее время наиболее
-известны и используются следующие модели жизненного цикла: </p>
+<p class=MsoNormal>ГЊГ®Г¤ГҐГ«Гј Г¦ГЁГ§Г­ГҐГ­Г­Г®ГЈГ® Г¶ГЁГЄГ«Г  Г®ГІГ°Г Г¦Г ГҐГІ Г°Г Г§Г«ГЁГ·Г­Г»ГҐ Г±Г®Г±ГІГ®ГїГ­ГЁГї
+Г±ГЁГ±ГІГҐГ¬Г», Г­Г Г·ГЁГ­Г Гї Г± Г¬Г®Г¬ГҐГ­ГІГ  ГўГ®Г§Г­ГЁГЄГ­Г®ГўГҐГ­ГЁГї Г­ГҐГ®ГЎГµГ®Г¤ГЁГ¬Г®Г±ГІГЁ Гў Г¤Г Г­Г­Г®Г© Г€Г‘ ГЁ Г§Г ГЄГ Г­Г·ГЁГўГ Гї
+Г¬Г®Г¬ГҐГ­ГІГ®Г¬ ГҐГҐ ГЇГ®Г«Г­Г®ГЈГ® ГўГ»ГµГ®Г¤Г  ГЁГ§ ГіГЇГ®ГІГ°ГҐГЎГ«ГҐГ­ГЁГї. </p>
+
+<p class=MsoNormal>Г’ГЁГЇГ» Г¬Г®Г¤ГҐГ«ГҐГ© Г¦ГЁГ§Г­ГҐГ­Г­Г®ГЈГ® Г¶ГЁГЄГ«Г  Г€Г‘ Г‚ Г­Г Г±ГІГ®ГїГ№ГҐГҐ ГўГ°ГҐГ¬Гї Г­Г ГЁГЎГ®Г«ГҐГҐ
+ГЁГ§ГўГҐГ±ГІГ­Г» ГЁ ГЁГ±ГЇГ®Г«ГјГ§ГіГѕГІГ±Гї Г±Г«ГҐГ¤ГіГѕГ№ГЁГҐ Г¬Г®Г¤ГҐГ«ГЁ Г¦ГЁГ§Г­ГҐГ­Г­Г®ГЈГ® Г¶ГЁГЄГ«Г : </p>
 
 <p class=MsoListParagraph style='margin-left:0cm;mso-add-space:auto;mso-list:
 l0 level1 lfo1'><![if !supportLists]><b style='mso-bidi-font-weight:normal'><span
 style='mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman"'><span
 style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span></b><![endif]><b style='mso-bidi-font-weight:normal'>Каскадная
-модель</b> (рис. 1) предусматривает последовательное выполнение всех этапов
-проекта в строго фиксированном порядке. Переход на следующий этап означает
-полное завершение работ на предыдущем этапе.</p>
+</span></span></span></b><![endif]><b style='mso-bidi-font-weight:normal'>ГЉГ Г±ГЄГ Г¤Г­Г Гї
+Г¬Г®Г¤ГҐГ«Гј</b> (Г°ГЁГ±. 1) ГЇГ°ГҐГ¤ГіГ±Г¬Г ГІГ°ГЁГўГ ГҐГІ ГЇГ®Г±Г«ГҐГ¤Г®ГўГ ГІГҐГ«ГјГ­Г®ГҐ ГўГ»ГЇГ®Г«Г­ГҐГ­ГЁГҐ ГўГ±ГҐГµ ГЅГІГ ГЇГ®Гў
+ГЇГ°Г®ГҐГЄГІГ  Гў Г±ГІГ°Г®ГЈГ® ГґГЁГЄГ±ГЁГ°Г®ГўГ Г­Г­Г®Г¬ ГЇГ®Г°ГїГ¤ГЄГҐ. ГЏГҐГ°ГҐГµГ®Г¤ Г­Г  Г±Г«ГҐГ¤ГіГѕГ№ГЁГ© ГЅГІГ ГЇ Г®Г§Г­Г Г·Г ГҐГІ
+ГЇГ®Г«Г­Г®ГҐ Г§Г ГўГҐГ°ГёГҐГ­ГЁГҐ Г°Г ГЎГ®ГІ Г­Г  ГЇГ°ГҐГ¤Г»Г¤ГіГ№ГҐГ¬ ГЅГІГ ГЇГҐ.</p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='mso-fareast-language:RU;mso-no-proof:yes'><v:shapetype id="_x0000_t75"
@@ -1113,120 +1113,120 @@ style='mso-fareast-language:RU;mso-no-proof:yes'><v:shapetype id="_x0000_t75"
  </v:formulas>
  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
  <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Рисунок_x0020_1" o:spid="_x0000_i1030" type="#_x0000_t75"
- alt="Описание: https://present5.com/presentation/3/6943317_437289570.pdf-img/6943317_437289570.pdf-30.jpg"
+</v:shapetype><v:shape id="ГђГЁГ±ГіГ­Г®ГЄ_x0020_1" o:spid="_x0000_i1030" type="#_x0000_t75"
+ alt="ГЋГЇГЁГ±Г Г­ГЁГҐ: https://present5.com/presentation/3/6943317_437289570.pdf-img/6943317_437289570.pdf-30.jpg"
  style='width:384pt;height:209.25pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="модели%20жц%20ис.files/image001.jpg" o:title="6943317_437289570.pdf-30"
+ <v:imagedata src="Г¬Г®Г¤ГҐГ«ГЁ%20Г¦Г¶%20ГЁГ±.files/image001.jpg" o:title="6943317_437289570.pdf-30"
   croptop="15264f" cropbottom="11203f" cropleft="5041f" cropright="6722f"/>
 </v:shape></span></p>
 
-<p class=MsoNormal align=center style='text-align:center'>Рисунок 1 - Каскадная
-модель ЖЦ ИС</p>
+<p class=MsoNormal align=center style='text-align:center'>ГђГЁГ±ГіГ­Г®ГЄ 1 - ГЉГ Г±ГЄГ Г¤Г­Г Гї
+Г¬Г®Г¤ГҐГ«Гј Г†Г– Г€Г‘</p>
 
-<p class=MsoNormal>На первом этапе проводится исследование проблемы, которая
-должна быть решена, четко формулируются все требования заказчика. Результатом,
-получаемым на данном этапе, является техническое задание (разработка требований),
-согласованное со всеми заинтересованными сторонами. </p>
+<p class=MsoNormal>ГЌГ  ГЇГҐГ°ГўГ®Г¬ ГЅГІГ ГЇГҐ ГЇГ°Г®ГўГ®Г¤ГЁГІГ±Гї ГЁГ±Г±Г«ГҐГ¤Г®ГўГ Г­ГЁГҐ ГЇГ°Г®ГЎГ«ГҐГ¬Г», ГЄГ®ГІГ®Г°Г Гї
+Г¤Г®Г«Г¦Г­Г  ГЎГ»ГІГј Г°ГҐГёГҐГ­Г , Г·ГҐГІГЄГ® ГґГ®Г°Г¬ГіГ«ГЁГ°ГіГѕГІГ±Гї ГўГ±ГҐ ГІГ°ГҐГЎГ®ГўГ Г­ГЁГї Г§Г ГЄГ Г§Г·ГЁГЄГ . ГђГҐГ§ГіГ«ГјГІГ ГІГ®Г¬,
+ГЇГ®Г«ГіГ·Г ГҐГ¬Г»Г¬ Г­Г  Г¤Г Г­Г­Г®Г¬ ГЅГІГ ГЇГҐ, ГїГўГ«ГїГҐГІГ±Гї ГІГҐГµГ­ГЁГ·ГҐГ±ГЄГ®ГҐ Г§Г Г¤Г Г­ГЁГҐ (Г°Г Г§Г°Г ГЎГ®ГІГЄГ  ГІГ°ГҐГЎГ®ГўГ Г­ГЁГ©),
+Г±Г®ГЈГ«Г Г±Г®ГўГ Г­Г­Г®ГҐ Г±Г® ГўГ±ГҐГ¬ГЁ Г§Г ГЁГ­ГІГҐГ°ГҐГ±Г®ГўГ Г­Г­Г»Г¬ГЁ Г±ГІГ®Г°Г®Г­Г Г¬ГЁ. </p>
 
-<p class=MsoNormal>На втором этапе разрабатывают проектные решения,
-удовлетворяющие всем требованиями, сформулированным в техническом задании.
-Результатом данного этапа является комплект проектной документации, содержащей
-все необходимые данные для реализации проекта. </p>
+<p class=MsoNormal>ГЌГ  ГўГІГ®Г°Г®Г¬ ГЅГІГ ГЇГҐ Г°Г Г§Г°Г ГЎГ ГІГ»ГўГ ГѕГІ ГЇГ°Г®ГҐГЄГІГ­Г»ГҐ Г°ГҐГёГҐГ­ГЁГї,
+ГіГ¤Г®ГўГ«ГҐГІГўГ®Г°ГїГѕГ№ГЁГҐ ГўГ±ГҐГ¬ ГІГ°ГҐГЎГ®ГўГ Г­ГЁГїГ¬ГЁ, Г±ГґГ®Г°Г¬ГіГ«ГЁГ°Г®ГўГ Г­Г­Г»Г¬ Гў ГІГҐГµГ­ГЁГ·ГҐГ±ГЄГ®Г¬ Г§Г Г¤Г Г­ГЁГЁ.
+ГђГҐГ§ГіГ«ГјГІГ ГІГ®Г¬ Г¤Г Г­Г­Г®ГЈГ® ГЅГІГ ГЇГ  ГїГўГ«ГїГҐГІГ±Гї ГЄГ®Г¬ГЇГ«ГҐГЄГІ ГЇГ°Г®ГҐГЄГІГ­Г®Г© Г¤Г®ГЄГіГ¬ГҐГ­ГІГ Г¶ГЁГЁ, Г±Г®Г¤ГҐГ°Г¦Г Г№ГҐГ©
+ГўГ±ГҐ Г­ГҐГ®ГЎГµГ®Г¤ГЁГ¬Г»ГҐ Г¤Г Г­Г­Г»ГҐ Г¤Г«Гї Г°ГҐГ Г«ГЁГ§Г Г¶ГЁГЁ ГЇГ°Г®ГҐГЄГІГ . </p>
 
-<p class=MsoNormal>Третий этап — реализация проекта. Здесь осуществляется
-разработка программного обеспечения (кодирование) в соответствии с проектными 2
-решениями, полученными на предыдущем этапе. Методы, используемые для
-реализации, не имеют принципиального значения. Результатом выполнения данного
-этапа является готовый программный продукт. </p>
+<p class=MsoNormal>Г’Г°ГҐГІГЁГ© ГЅГІГ ГЇ В— Г°ГҐГ Г«ГЁГ§Г Г¶ГЁГї ГЇГ°Г®ГҐГЄГІГ . Г‡Г¤ГҐГ±Гј Г®Г±ГіГ№ГҐГ±ГІГўГ«ГїГҐГІГ±Гї
+Г°Г Г§Г°Г ГЎГ®ГІГЄГ  ГЇГ°Г®ГЈГ°Г Г¬Г¬Г­Г®ГЈГ® Г®ГЎГҐГ±ГЇГҐГ·ГҐГ­ГЁГї (ГЄГ®Г¤ГЁГ°Г®ГўГ Г­ГЁГҐ) Гў Г±Г®Г®ГІГўГҐГІГ±ГІГўГЁГЁ Г± ГЇГ°Г®ГҐГЄГІГ­Г»Г¬ГЁ 2
+Г°ГҐГёГҐГ­ГЁГїГ¬ГЁ, ГЇГ®Г«ГіГ·ГҐГ­Г­Г»Г¬ГЁ Г­Г  ГЇГ°ГҐГ¤Г»Г¤ГіГ№ГҐГ¬ ГЅГІГ ГЇГҐ. ГЊГҐГІГ®Г¤Г», ГЁГ±ГЇГ®Г«ГјГ§ГіГҐГ¬Г»ГҐ Г¤Г«Гї
+Г°ГҐГ Г«ГЁГ§Г Г¶ГЁГЁ, Г­ГҐ ГЁГ¬ГҐГѕГІ ГЇГ°ГЁГ­Г¶ГЁГЇГЁГ Г«ГјГ­Г®ГЈГ® Г§Г­Г Г·ГҐГ­ГЁГї. ГђГҐГ§ГіГ«ГјГІГ ГІГ®Г¬ ГўГ»ГЇГ®Г«Г­ГҐГ­ГЁГї Г¤Г Г­Г­Г®ГЈГ®
+ГЅГІГ ГЇГ  ГїГўГ«ГїГҐГІГ±Гї ГЈГ®ГІГ®ГўГ»Г© ГЇГ°Г®ГЈГ°Г Г¬Г¬Г­Г»Г© ГЇГ°Г®Г¤ГіГЄГІ. </p>
 
-<p class=MsoNormal>На четвертом этапе проводится проверка (тестирования)
-полученного программного обеспечения на предмет соответствия требованиям, заявленным
-в техническом задании. Опытная эксплуатация позволяет выявить и исправить
-различного рода скрытые недостатки, проявляющиеся в реальных условиях работы
-информационной системы. Результат – готовая к эксплуатации система. </p>
+<p class=MsoNormal>ГЌГ  Г·ГҐГІГўГҐГ°ГІГ®Г¬ ГЅГІГ ГЇГҐ ГЇГ°Г®ГўГ®Г¤ГЁГІГ±Гї ГЇГ°Г®ГўГҐГ°ГЄГ  (ГІГҐГ±ГІГЁГ°Г®ГўГ Г­ГЁГї)
+ГЇГ®Г«ГіГ·ГҐГ­Г­Г®ГЈГ® ГЇГ°Г®ГЈГ°Г Г¬Г¬Г­Г®ГЈГ® Г®ГЎГҐГ±ГЇГҐГ·ГҐГ­ГЁГї Г­Г  ГЇГ°ГҐГ¤Г¬ГҐГІ Г±Г®Г®ГІГўГҐГІГ±ГІГўГЁГї ГІГ°ГҐГЎГ®ГўГ Г­ГЁГїГ¬, Г§Г ГїГўГ«ГҐГ­Г­Г»Г¬
+Гў ГІГҐГµГ­ГЁГ·ГҐГ±ГЄГ®Г¬ Г§Г Г¤Г Г­ГЁГЁ. ГЋГЇГ»ГІГ­Г Гї ГЅГЄГ±ГЇГ«ГіГ ГІГ Г¶ГЁГї ГЇГ®Г§ГўГ®Г«ГїГҐГІ ГўГ»ГїГўГЁГІГј ГЁ ГЁГ±ГЇГ°Г ГўГЁГІГј
+Г°Г Г§Г«ГЁГ·Г­Г®ГЈГ® Г°Г®Г¤Г  Г±ГЄГ°Г»ГІГ»ГҐ Г­ГҐГ¤Г®Г±ГІГ ГІГЄГЁ, ГЇГ°Г®ГїГўГ«ГїГѕГ№ГЁГҐГ±Гї Гў Г°ГҐГ Г«ГјГ­Г»Гµ ГіГ±Г«Г®ГўГЁГїГµ Г°Г ГЎГ®ГІГ»
+ГЁГ­ГґГ®Г°Г¬Г Г¶ГЁГ®Г­Г­Г®Г© Г±ГЁГ±ГІГҐГ¬Г». ГђГҐГ§ГіГ«ГјГІГ ГІ В– ГЈГ®ГІГ®ГўГ Гї ГЄ ГЅГЄГ±ГЇГ«ГіГ ГІГ Г¶ГЁГЁ Г±ГЁГ±ГІГҐГ¬Г . </p>
 
-<p class=MsoNormal>Последний этап — сдача готового проекта, ввод его в
-действие. Главная задача этого этапа — документально подтвердить, что все
-требования заказчика выполнены в полной мере. Результат – работающая ИС с
-полным комплектом сопроводительной документации, утвержденные заказчиком
-документы о принятии системы в эксплуатацию.</p>
+<p class=MsoNormal>ГЏГ®Г±Г«ГҐГ¤Г­ГЁГ© ГЅГІГ ГЇ В— Г±Г¤Г Г·Г  ГЈГ®ГІГ®ГўГ®ГЈГ® ГЇГ°Г®ГҐГЄГІГ , ГўГўГ®Г¤ ГҐГЈГ® Гў
+Г¤ГҐГ©Г±ГІГўГЁГҐ. ГѓГ«Г ГўГ­Г Гї Г§Г Г¤Г Г·Г  ГЅГІГ®ГЈГ® ГЅГІГ ГЇГ  В— Г¤Г®ГЄГіГ¬ГҐГ­ГІГ Г«ГјГ­Г® ГЇГ®Г¤ГІГўГҐГ°Г¤ГЁГІГј, Г·ГІГ® ГўГ±ГҐ
+ГІГ°ГҐГЎГ®ГўГ Г­ГЁГї Г§Г ГЄГ Г§Г·ГЁГЄГ  ГўГ»ГЇГ®Г«Г­ГҐГ­Г» Гў ГЇГ®Г«Г­Г®Г© Г¬ГҐГ°ГҐ. ГђГҐГ§ГіГ«ГјГІГ ГІ В– Г°Г ГЎГ®ГІГ ГѕГ№Г Гї Г€Г‘ Г±
+ГЇГ®Г«Г­Г»Г¬ ГЄГ®Г¬ГЇГ«ГҐГЄГІГ®Г¬ Г±Г®ГЇГ°Г®ГўГ®Г¤ГЁГІГҐГ«ГјГ­Г®Г© Г¤Г®ГЄГіГ¬ГҐГ­ГІГ Г¶ГЁГЁ, ГіГІГўГҐГ°Г¦Г¤ГҐГ­Г­Г»ГҐ Г§Г ГЄГ Г§Г·ГЁГЄГ®Г¬
+Г¤Г®ГЄГіГ¬ГҐГ­ГІГ» Г® ГЇГ°ГЁГ­ГїГІГЁГЁ Г±ГЁГ±ГІГҐГ¬Г» Гў ГЅГЄГ±ГЇГ«ГіГ ГІГ Г¶ГЁГѕ.</p>
 
-<p class=MsoNormal>Можно выделить следующие <b style='mso-bidi-font-weight:
-normal'>положительные стороны применения</b> каскадного подхода: </p>
-
-<p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
-mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-на каждом этапе формируется законченный набор проектной документации,
-отвечающий критериям полноты и согласованности; </p>
+<p class=MsoNormal>ГЊГ®Г¦Г­Г® ГўГ»Г¤ГҐГ«ГЁГІГј Г±Г«ГҐГ¤ГіГѕГ№ГЁГҐ <b style='mso-bidi-font-weight:
+normal'>ГЇГ®Г«Г®Г¦ГЁГІГҐГ«ГјГ­Г»ГҐ Г±ГІГ®Г°Г®Г­Г» ГЇГ°ГЁГ¬ГҐГ­ГҐГ­ГЁГї</b> ГЄГ Г±ГЄГ Г¤Г­Г®ГЈГ® ГЇГ®Г¤ГµГ®Г¤Г : </p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-выполняемые в логической последовательности этапы работ позволяют планировать
-сроки завершения всех работ и соответствующие затраты. </p>
-
-<p class=MsoNormal>Каскадный подход хорошо зарекомендовал себя при построении
-относительно простых ИС, когда в самом начале разработки можно достаточно точно
-и полно сформулировать все требования к системе.</p>
-
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Недостатки каскадной
-модели</b>. Перечень недостатков каскадной модели при ее использовании для
-разработки информационных систем достаточно обширен: </p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+Г­Г  ГЄГ Г¦Г¤Г®Г¬ ГЅГІГ ГЇГҐ ГґГ®Г°Г¬ГЁГ°ГіГҐГІГ±Гї Г§Г ГЄГ®Г­Г·ГҐГ­Г­Г»Г© Г­Г ГЎГ®Г° ГЇГ°Г®ГҐГЄГІГ­Г®Г© Г¤Г®ГЄГіГ¬ГҐГ­ГІГ Г¶ГЁГЁ,
+Г®ГІГўГҐГ·Г ГѕГ№ГЁГ© ГЄГ°ГЁГІГҐГ°ГЁГїГ¬ ГЇГ®Г«Г­Г®ГІГ» ГЁ Г±Г®ГЈГ«Г Г±Г®ГўГ Г­Г­Г®Г±ГІГЁ; </p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-существенная задержка в получении результатов;</p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+ГўГ»ГЇГ®Г«Г­ГїГҐГ¬Г»ГҐ Гў Г«Г®ГЈГЁГ·ГҐГ±ГЄГ®Г© ГЇГ®Г±Г«ГҐГ¤Г®ГўГ ГІГҐГ«ГјГ­Г®Г±ГІГЁ ГЅГІГ ГЇГ» Г°Г ГЎГ®ГІ ГЇГ®Г§ГўГ®Г«ГїГѕГІ ГЇГ«Г Г­ГЁГ°Г®ГўГ ГІГј
+Г±Г°Г®ГЄГЁ Г§Г ГўГҐГ°ГёГҐГ­ГЁГї ГўГ±ГҐГµ Г°Г ГЎГ®ГІ ГЁ Г±Г®Г®ГІГўГҐГІГ±ГІГўГіГѕГ№ГЁГҐ Г§Г ГІГ°Г ГІГ». </p>
+
+<p class=MsoNormal>ГЉГ Г±ГЄГ Г¤Г­Г»Г© ГЇГ®Г¤ГµГ®Г¤ ГµГ®Г°Г®ГёГ® Г§Г Г°ГҐГЄГ®Г¬ГҐГ­Г¤Г®ГўГ Г« Г±ГҐГЎГї ГЇГ°ГЁ ГЇГ®Г±ГІГ°Г®ГҐГ­ГЁГЁ
+Г®ГІГ­Г®Г±ГЁГІГҐГ«ГјГ­Г® ГЇГ°Г®Г±ГІГ»Гµ Г€Г‘, ГЄГ®ГЈГ¤Г  Гў Г±Г Г¬Г®Г¬ Г­Г Г·Г Г«ГҐ Г°Г Г§Г°Г ГЎГ®ГІГЄГЁ Г¬Г®Г¦Г­Г® Г¤Г®Г±ГІГ ГІГ®Г·Г­Г® ГІГ®Г·Г­Г®
+ГЁ ГЇГ®Г«Г­Г® Г±ГґГ®Г°Г¬ГіГ«ГЁГ°Г®ГўГ ГІГј ГўГ±ГҐ ГІГ°ГҐГЎГ®ГўГ Г­ГЁГї ГЄ Г±ГЁГ±ГІГҐГ¬ГҐ.</p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>ГЌГҐГ¤Г®Г±ГІГ ГІГЄГЁ ГЄГ Г±ГЄГ Г¤Г­Г®Г©
+Г¬Г®Г¤ГҐГ«ГЁ</b>. ГЏГҐГ°ГҐГ·ГҐГ­Гј Г­ГҐГ¤Г®Г±ГІГ ГІГЄГ®Гў ГЄГ Г±ГЄГ Г¤Г­Г®Г© Г¬Г®Г¤ГҐГ«ГЁ ГЇГ°ГЁ ГҐГҐ ГЁГ±ГЇГ®Г«ГјГ§Г®ГўГ Г­ГЁГЁ Г¤Г«Гї
+Г°Г Г§Г°Г ГЎГ®ГІГЄГЁ ГЁГ­ГґГ®Г°Г¬Г Г¶ГЁГ®Г­Г­Г»Гµ Г±ГЁГ±ГІГҐГ¬ Г¤Г®Г±ГІГ ГІГ®Г·Г­Г® Г®ГЎГёГЁГ°ГҐГ­: </p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-ошибки и недоработки на любом из этапов проявляются, как правило, на
-последующих этапах работ, что приводит к необходимости возврата назад; </p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+Г±ГіГ№ГҐГ±ГІГўГҐГ­Г­Г Гї Г§Г Г¤ГҐГ°Г¦ГЄГ  Гў ГЇГ®Г«ГіГ·ГҐГ­ГЁГЁ Г°ГҐГ§ГіГ«ГјГІГ ГІГ®Гў;</p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-сложность параллельного ведения работ по проекту; </p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+Г®ГёГЁГЎГЄГЁ ГЁ Г­ГҐГ¤Г®Г°Г ГЎГ®ГІГЄГЁ Г­Г  Г«ГѕГЎГ®Г¬ ГЁГ§ ГЅГІГ ГЇГ®Гў ГЇГ°Г®ГїГўГ«ГїГѕГІГ±Гї, ГЄГ ГЄ ГЇГ°Г ГўГЁГ«Г®, Г­Г 
+ГЇГ®Г±Г«ГҐГ¤ГіГѕГ№ГЁГµ ГЅГІГ ГЇГ Гµ Г°Г ГЎГ®ГІ, Г·ГІГ® ГЇГ°ГЁГўГ®Г¤ГЁГІ ГЄ Г­ГҐГ®ГЎГµГ®Г¤ГЁГ¬Г®Г±ГІГЁ ГўГ®Г§ГўГ°Г ГІГ  Г­Г Г§Г Г¤; </p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-чрезмерная информационная перенасыщенность каждого из этапов; </p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+Г±Г«Г®Г¦Г­Г®Г±ГІГј ГЇГ Г°Г Г«Г«ГҐГ«ГјГ­Г®ГЈГ® ГўГҐГ¤ГҐГ­ГЁГї Г°Г ГЎГ®ГІ ГЇГ® ГЇГ°Г®ГҐГЄГІГі; </p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-сложность управления проектом; </p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+Г·Г°ГҐГ§Г¬ГҐГ°Г­Г Гї ГЁГ­ГґГ®Г°Г¬Г Г¶ГЁГ®Г­Г­Г Гї ГЇГҐГ°ГҐГ­Г Г±Г»Г№ГҐГ­Г­Г®Г±ГІГј ГЄГ Г¦Г¤Г®ГЈГ® ГЁГ§ ГЅГІГ ГЇГ®Гў; </p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-высокий уровень риска и ненадежность инвестиций. </p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+Г±Г«Г®Г¦Г­Г®Г±ГІГј ГіГЇГ°Г ГўГ«ГҐГ­ГЁГї ГЇГ°Г®ГҐГЄГІГ®Г¬; </p>
 
-<p class=MsoNormal>Основным недостатком этого подхода является то, что реальный
-процесс создания системы никогда полностью не укладывается в такую жесткую
-схему, постоянно возникает потребность в возврате к предыдущим этапам и
-уточнении или пересмотре ранее принятых решений. Это приводит к существенной
-задержке в получении результатов.</p>
+<p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+ГўГ»Г±Г®ГЄГЁГ© ГіГ°Г®ГўГҐГ­Гј Г°ГЁГ±ГЄГ  ГЁ Г­ГҐГ­Г Г¤ГҐГ¦Г­Г®Г±ГІГј ГЁГ­ГўГҐГ±ГІГЁГ¶ГЁГ©. </p>
 
-<p class=MsoNormal>В результате реальный процесс создания ИС оказывается
-соответствующим поэтапной модели с промежуточным контролем. Здесь разработка ИС
-ведется итерациями с циклами обратной связи между этапами. Межэтапные
-корректировки позволяют учитывать реально существующее взаимовлияние
-результатов 3 разработки на различных этапах; время жизни каждого из этапов
-растягивается на весь период разработки (рис. 2).</p>
+<p class=MsoNormal>ГЋГ±Г­Г®ГўГ­Г»Г¬ Г­ГҐГ¤Г®Г±ГІГ ГІГЄГ®Г¬ ГЅГІГ®ГЈГ® ГЇГ®Г¤ГµГ®Г¤Г  ГїГўГ«ГїГҐГІГ±Гї ГІГ®, Г·ГІГ® Г°ГҐГ Г«ГјГ­Г»Г©
+ГЇГ°Г®Г¶ГҐГ±Г± Г±Г®Г§Г¤Г Г­ГЁГї Г±ГЁГ±ГІГҐГ¬Г» Г­ГЁГЄГ®ГЈГ¤Г  ГЇГ®Г«Г­Г®Г±ГІГјГѕ Г­ГҐ ГіГЄГ«Г Г¤Г»ГўГ ГҐГІГ±Гї Гў ГІГ ГЄГіГѕ Г¦ГҐГ±ГІГЄГіГѕ
+Г±ГµГҐГ¬Гі, ГЇГ®Г±ГІГ®ГїГ­Г­Г® ГўГ®Г§Г­ГЁГЄГ ГҐГІ ГЇГ®ГІГ°ГҐГЎГ­Г®Г±ГІГј Гў ГўГ®Г§ГўГ°Г ГІГҐ ГЄ ГЇГ°ГҐГ¤Г»Г¤ГіГ№ГЁГ¬ ГЅГІГ ГЇГ Г¬ ГЁ
+ГіГІГ®Г·Г­ГҐГ­ГЁГЁ ГЁГ«ГЁ ГЇГҐГ°ГҐГ±Г¬Г®ГІГ°ГҐ Г°Г Г­ГҐГҐ ГЇГ°ГЁГ­ГїГІГ»Гµ Г°ГҐГёГҐГ­ГЁГ©. ГќГІГ® ГЇГ°ГЁГўГ®Г¤ГЁГІ ГЄ Г±ГіГ№ГҐГ±ГІГўГҐГ­Г­Г®Г©
+Г§Г Г¤ГҐГ°Г¦ГЄГҐ Гў ГЇГ®Г«ГіГ·ГҐГ­ГЁГЁ Г°ГҐГ§ГіГ«ГјГІГ ГІГ®Гў.</p>
+
+<p class=MsoNormal>Г‚ Г°ГҐГ§ГіГ«ГјГІГ ГІГҐ Г°ГҐГ Г«ГјГ­Г»Г© ГЇГ°Г®Г¶ГҐГ±Г± Г±Г®Г§Г¤Г Г­ГЁГї Г€Г‘ Г®ГЄГ Г§Г»ГўГ ГҐГІГ±Гї
+Г±Г®Г®ГІГўГҐГІГ±ГІГўГіГѕГ№ГЁГ¬ ГЇГ®ГЅГІГ ГЇГ­Г®Г© Г¬Г®Г¤ГҐГ«ГЁ Г± ГЇГ°Г®Г¬ГҐГ¦ГіГІГ®Г·Г­Г»Г¬ ГЄГ®Г­ГІГ°Г®Г«ГҐГ¬. Г‡Г¤ГҐГ±Гј Г°Г Г§Г°Г ГЎГ®ГІГЄГ  Г€Г‘
+ГўГҐГ¤ГҐГІГ±Гї ГЁГІГҐГ°Г Г¶ГЁГїГ¬ГЁ Г± Г¶ГЁГЄГ«Г Г¬ГЁ Г®ГЎГ°Г ГІГ­Г®Г© Г±ГўГїГ§ГЁ Г¬ГҐГ¦Г¤Гі ГЅГІГ ГЇГ Г¬ГЁ. ГЊГҐГ¦ГЅГІГ ГЇГ­Г»ГҐ
+ГЄГ®Г°Г°ГҐГЄГІГЁГ°Г®ГўГЄГЁ ГЇГ®Г§ГўГ®Г«ГїГѕГІ ГіГ·ГЁГІГ»ГўГ ГІГј Г°ГҐГ Г«ГјГ­Г® Г±ГіГ№ГҐГ±ГІГўГіГѕГ№ГҐГҐ ГўГ§Г ГЁГ¬Г®ГўГ«ГЁГїГ­ГЁГҐ
+Г°ГҐГ§ГіГ«ГјГІГ ГІГ®Гў 3 Г°Г Г§Г°Г ГЎГ®ГІГЄГЁ Г­Г  Г°Г Г§Г«ГЁГ·Г­Г»Гµ ГЅГІГ ГЇГ Гµ; ГўГ°ГҐГ¬Гї Г¦ГЁГ§Г­ГЁ ГЄГ Г¦Г¤Г®ГЈГ® ГЁГ§ ГЅГІГ ГЇГ®Гў
+Г°Г Г±ГІГїГЈГЁГўГ ГҐГІГ±Гї Г­Г  ГўГҐГ±Гј ГЇГҐГ°ГЁГ®Г¤ Г°Г Г§Г°Г ГЎГ®ГІГЄГЁ (Г°ГЁГ±. 2).</p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
-style='mso-fareast-language:RU;mso-no-proof:yes'><v:shape id="Рисунок_x0020_2"
- o:spid="_x0000_i1029" type="#_x0000_t75" alt="Описание: https://present5.com/presentforday2/20170304/ingh_is_2017_01_images/ingh_is_2017_01_20.jpg"
+style='mso-fareast-language:RU;mso-no-proof:yes'><v:shape id="ГђГЁГ±ГіГ­Г®ГЄ_x0020_2"
+ o:spid="_x0000_i1029" type="#_x0000_t75" alt="ГЋГЇГЁГ±Г Г­ГЁГҐ: https://present5.com/presentforday2/20170304/ingh_is_2017_01_images/ingh_is_2017_01_20.jpg"
  style='width:363pt;height:141.75pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="модели%20жц%20ис.files/image002.jpg" o:title="ingh_is_2017_01_20"
+ <v:imagedata src="Г¬Г®Г¤ГҐГ«ГЁ%20Г¦Г¶%20ГЁГ±.files/image002.jpg" o:title="ingh_is_2017_01_20"
   croptop="26513f" cropbottom="11390f" cropleft="14599f" cropright="11133f"/>
 </v:shape></span></p>
 
-<p class=MsoNormal>Рисунок 2 - Поэтапная модель с промежуточным контролем</p>
+<p class=MsoNormal>ГђГЁГ±ГіГ­Г®ГЄ 2 - ГЏГ®ГЅГІГ ГЇГ­Г Гї Г¬Г®Г¤ГҐГ«Гј Г± ГЇГ°Г®Г¬ГҐГ¦ГіГІГ®Г·Г­Г»Г¬ ГЄГ®Г­ГІГ°Г®Г«ГҐГ¬</p>
 
 <p class=MsoNormal></p>
 
@@ -1236,261 +1236,261 @@ style='mso-fareast-language:RU;mso-no-proof:yes'><v:shape id="Рисунок_x0020_2"
 l0 level1 lfo1'><![if !supportLists]><b style='mso-bidi-font-weight:normal'><span
 style='mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman"'><span
 style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span></b><![endif]><b style='mso-bidi-font-weight:normal'>Спиральная
-модель</b> ЖЦ (рис. 3) была предложена для преодоления перечисленных проблем
-каскадной модели. На этапах анализа и проектирования реализуемость технических
-решений и степень удовлетворения потребностей заказчика проверяется путем
-создания прототипов. </p>
+</span></span></span></b><![endif]><b style='mso-bidi-font-weight:normal'>Г‘ГЇГЁГ°Г Г«ГјГ­Г Гї
+Г¬Г®Г¤ГҐГ«Гј</b> Г†Г– (Г°ГЁГ±. 3) ГЎГ»Г«Г  ГЇГ°ГҐГ¤Г«Г®Г¦ГҐГ­Г  Г¤Г«Гї ГЇГ°ГҐГ®Г¤Г®Г«ГҐГ­ГЁГї ГЇГҐГ°ГҐГ·ГЁГ±Г«ГҐГ­Г­Г»Гµ ГЇГ°Г®ГЎГ«ГҐГ¬
+ГЄГ Г±ГЄГ Г¤Г­Г®Г© Г¬Г®Г¤ГҐГ«ГЁ. ГЌГ  ГЅГІГ ГЇГ Гµ Г Г­Г Г«ГЁГ§Г  ГЁ ГЇГ°Г®ГҐГЄГІГЁГ°Г®ГўГ Г­ГЁГї Г°ГҐГ Г«ГЁГ§ГіГҐГ¬Г®Г±ГІГј ГІГҐГµГ­ГЁГ·ГҐГ±ГЄГЁГµ
+Г°ГҐГёГҐГ­ГЁГ© ГЁ Г±ГІГҐГЇГҐГ­Гј ГіГ¤Г®ГўГ«ГҐГІГўГ®Г°ГҐГ­ГЁГї ГЇГ®ГІГ°ГҐГЎГ­Г®Г±ГІГҐГ© Г§Г ГЄГ Г§Г·ГЁГЄГ  ГЇГ°Г®ГўГҐГ°ГїГҐГІГ±Гї ГЇГіГІГҐГ¬
+Г±Г®Г§Г¤Г Г­ГЁГї ГЇГ°Г®ГІГ®ГІГЁГЇГ®Гў. </p>
 
-<p class=MsoNormal>Каждый виток спирали соответствует созданию работоспособного
-фрагмента или версии системы. Это позволяет уточнить требования, цели и
-характеристики проекта, определить качество разработки, спланировать работы
-следующего витка спирали. Таким образом, углубляются и последовательно
-конкретизируются детали проекта, и в результате выбирается обоснованный
-вариант, который удовлетворяет действительным требованиям заказчика и доводится
-до реализации.</p>
+<p class=MsoNormal>ГЉГ Г¦Г¤Г»Г© ГўГЁГІГ®ГЄ Г±ГЇГЁГ°Г Г«ГЁ Г±Г®Г®ГІГўГҐГІГ±ГІГўГіГҐГІ Г±Г®Г§Г¤Г Г­ГЁГѕ Г°Г ГЎГ®ГІГ®Г±ГЇГ®Г±Г®ГЎГ­Г®ГЈГ®
+ГґГ°Г ГЈГ¬ГҐГ­ГІГ  ГЁГ«ГЁ ГўГҐГ°Г±ГЁГЁ Г±ГЁГ±ГІГҐГ¬Г». ГќГІГ® ГЇГ®Г§ГўГ®Г«ГїГҐГІ ГіГІГ®Г·Г­ГЁГІГј ГІГ°ГҐГЎГ®ГўГ Г­ГЁГї, Г¶ГҐГ«ГЁ ГЁ
+ГµГ Г°Г ГЄГІГҐГ°ГЁГ±ГІГЁГЄГЁ ГЇГ°Г®ГҐГЄГІГ , Г®ГЇГ°ГҐГ¤ГҐГ«ГЁГІГј ГЄГ Г·ГҐГ±ГІГўГ® Г°Г Г§Г°Г ГЎГ®ГІГЄГЁ, Г±ГЇГ«Г Г­ГЁГ°Г®ГўГ ГІГј Г°Г ГЎГ®ГІГ»
+Г±Г«ГҐГ¤ГіГѕГ№ГҐГЈГ® ГўГЁГІГЄГ  Г±ГЇГЁГ°Г Г«ГЁ. Г’Г ГЄГЁГ¬ Г®ГЎГ°Г Г§Г®Г¬, ГіГЈГ«ГіГЎГ«ГїГѕГІГ±Гї ГЁ ГЇГ®Г±Г«ГҐГ¤Г®ГўГ ГІГҐГ«ГјГ­Г®
+ГЄГ®Г­ГЄГ°ГҐГІГЁГ§ГЁГ°ГіГѕГІГ±Гї Г¤ГҐГІГ Г«ГЁ ГЇГ°Г®ГҐГЄГІГ , ГЁ Гў Г°ГҐГ§ГіГ«ГјГІГ ГІГҐ ГўГ»ГЎГЁГ°Г ГҐГІГ±Гї Г®ГЎГ®Г±Г­Г®ГўГ Г­Г­Г»Г©
+ГўГ Г°ГЁГ Г­ГІ, ГЄГ®ГІГ®Г°Г»Г© ГіГ¤Г®ГўГ«ГҐГІГўГ®Г°ГїГҐГІ Г¤ГҐГ©Г±ГІГўГЁГІГҐГ«ГјГ­Г»Г¬ ГІГ°ГҐГЎГ®ГўГ Г­ГЁГїГ¬ Г§Г ГЄГ Г§Г·ГЁГЄГ  ГЁ Г¤Г®ГўГ®Г¤ГЁГІГ±Гї
+Г¤Г® Г°ГҐГ Г«ГЁГ§Г Г¶ГЁГЁ.</p>
 
 <p class=MsoNormal><span style='mso-fareast-language:RU;mso-no-proof:yes'><v:shape
- id="Рисунок_x0020_3" o:spid="_x0000_i1028" type="#_x0000_t75" alt="Описание: https://m.studme.org/htm/img/15/3341/10.png"
+ id="ГђГЁГ±ГіГ­Г®ГЄ_x0020_3" o:spid="_x0000_i1028" type="#_x0000_t75" alt="ГЋГЇГЁГ±Г Г­ГЁГҐ: https://m.studme.org/htm/img/15/3341/10.png"
  style='width:4in;height:181.5pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="модели%20жц%20ис.files/image003.png" o:title="10"/>
+ <v:imagedata src="Г¬Г®Г¤ГҐГ«ГЁ%20Г¦Г¶%20ГЁГ±.files/image003.png" o:title="10"/>
 </v:shape></span></p>
 
-<p class=MsoNormal align=center style='text-align:center'>Рисунок 3 -
-Спиральная модель ЖЦ ИС</p>
+<p class=MsoNormal align=center style='text-align:center'>ГђГЁГ±ГіГ­Г®ГЄ 3 -
+Г‘ГЇГЁГ°Г Г«ГјГ­Г Гї Г¬Г®Г¤ГҐГ«Гј Г†Г– Г€Г‘</p>
 
-<p class=MsoNormal>Использование спиральной модели позволяет перейти на
-следующий этап выполнения проекта, не дожидаясь полного завершения текущего —
-недоделанную работу можно будет выполнить на следующей итерации. Главная задача
-каждой итерации — как можно быстрее создать работоспособный продукт, который
-можно показать пользователям системы. Таким образом, существенно 4 упрощается
-процесс внесения уточнений и дополнений в проект. </p>
+<p class=MsoNormal>Г€Г±ГЇГ®Г«ГјГ§Г®ГўГ Г­ГЁГҐ Г±ГЇГЁГ°Г Г«ГјГ­Г®Г© Г¬Г®Г¤ГҐГ«ГЁ ГЇГ®Г§ГўГ®Г«ГїГҐГІ ГЇГҐГ°ГҐГ©ГІГЁ Г­Г 
+Г±Г«ГҐГ¤ГіГѕГ№ГЁГ© ГЅГІГ ГЇ ГўГ»ГЇГ®Г«Г­ГҐГ­ГЁГї ГЇГ°Г®ГҐГЄГІГ , Г­ГҐ Г¤Г®Г¦ГЁГ¤Г ГїГ±Гј ГЇГ®Г«Г­Г®ГЈГ® Г§Г ГўГҐГ°ГёГҐГ­ГЁГї ГІГҐГЄГіГ№ГҐГЈГ® В—
+Г­ГҐГ¤Г®Г¤ГҐГ«Г Г­Г­ГіГѕ Г°Г ГЎГ®ГІГі Г¬Г®Г¦Г­Г® ГЎГіГ¤ГҐГІ ГўГ»ГЇГ®Г«Г­ГЁГІГј Г­Г  Г±Г«ГҐГ¤ГіГѕГ№ГҐГ© ГЁГІГҐГ°Г Г¶ГЁГЁ. ГѓГ«Г ГўГ­Г Гї Г§Г Г¤Г Г·Г 
+ГЄГ Г¦Г¤Г®Г© ГЁГІГҐГ°Г Г¶ГЁГЁ В— ГЄГ ГЄ Г¬Г®Г¦Г­Г® ГЎГ»Г±ГІГ°ГҐГҐ Г±Г®Г§Г¤Г ГІГј Г°Г ГЎГ®ГІГ®Г±ГЇГ®Г±Г®ГЎГ­Г»Г© ГЇГ°Г®Г¤ГіГЄГІ, ГЄГ®ГІГ®Г°Г»Г©
+Г¬Г®Г¦Г­Г® ГЇГ®ГЄГ Г§Г ГІГј ГЇГ®Г«ГјГ§Г®ГўГ ГІГҐГ«ГїГ¬ Г±ГЁГ±ГІГҐГ¬Г». Г’Г ГЄГЁГ¬ Г®ГЎГ°Г Г§Г®Г¬, Г±ГіГ№ГҐГ±ГІГўГҐГ­Г­Г® 4 ГіГЇГ°Г®Г№Г ГҐГІГ±Гї
+ГЇГ°Г®Г¶ГҐГ±Г± ГўГ­ГҐГ±ГҐГ­ГЁГї ГіГІГ®Г·Г­ГҐГ­ГЁГ© ГЁ Г¤Г®ГЇГ®Г«Г­ГҐГ­ГЁГ© Гў ГЇГ°Г®ГҐГЄГІ. </p>
 
-<p class=MsoNormal>Рассмотрим <b style='mso-bidi-font-weight:normal'>преимущества
-итерационного</b> подхода, применяемого в спиральной модели, более подробно. </p>
+<p class=MsoNormal>ГђГ Г±Г±Г¬Г®ГІГ°ГЁГ¬ <b style='mso-bidi-font-weight:normal'>ГЇГ°ГҐГЁГ¬ГіГ№ГҐГ±ГІГўГ 
+ГЁГІГҐГ°Г Г¶ГЁГ®Г­Г­Г®ГЈГ®</b> ГЇГ®Г¤ГµГ®Г¤Г , ГЇГ°ГЁГ¬ГҐГ­ГїГҐГ¬Г®ГЈГ® Гў Г±ГЇГЁГ°Г Г«ГјГ­Г®Г© Г¬Г®Г¤ГҐГ«ГЁ, ГЎГ®Г«ГҐГҐ ГЇГ®Г¤Г°Г®ГЎГ­Г®. </p>
 
-<p class=MsoNormal>1. Существенно упрощается внесение изменений в проект при
-изменении требований заказчика. </p>
+<p class=MsoNormal>1. Г‘ГіГ№ГҐГ±ГІГўГҐГ­Г­Г® ГіГЇГ°Г®Г№Г ГҐГІГ±Гї ГўГ­ГҐГ±ГҐГ­ГЁГҐ ГЁГ§Г¬ГҐГ­ГҐГ­ГЁГ© Гў ГЇГ°Г®ГҐГЄГІ ГЇГ°ГЁ
+ГЁГ§Г¬ГҐГ­ГҐГ­ГЁГЁ ГІГ°ГҐГЎГ®ГўГ Г­ГЁГ© Г§Г ГЄГ Г§Г·ГЁГЄГ . </p>
 
-<p class=MsoNormal>2. При использовании спиральной модели отдельные элементы
-информационной системы интегрируются в единое целое постепенно. Поскольку
-интеграция начинается с меньшего количества элементов, то возникает гораздо
-меньше проблем при ее проведении (по некоторым оценкам, при использовании
-каскадной модели разработки интеграция занимает до 40 % всех затрат в конце
-проекта). </p>
+<p class=MsoNormal>2. ГЏГ°ГЁ ГЁГ±ГЇГ®Г«ГјГ§Г®ГўГ Г­ГЁГЁ Г±ГЇГЁГ°Г Г«ГјГ­Г®Г© Г¬Г®Г¤ГҐГ«ГЁ Г®ГІГ¤ГҐГ«ГјГ­Г»ГҐ ГЅГ«ГҐГ¬ГҐГ­ГІГ»
+ГЁГ­ГґГ®Г°Г¬Г Г¶ГЁГ®Г­Г­Г®Г© Г±ГЁГ±ГІГҐГ¬Г» ГЁГ­ГІГҐГЈГ°ГЁГ°ГіГѕГІГ±Гї Гў ГҐГ¤ГЁГ­Г®ГҐ Г¶ГҐГ«Г®ГҐ ГЇГ®Г±ГІГҐГЇГҐГ­Г­Г®. ГЏГ®Г±ГЄГ®Г«ГјГЄГі
+ГЁГ­ГІГҐГЈГ°Г Г¶ГЁГї Г­Г Г·ГЁГ­Г ГҐГІГ±Гї Г± Г¬ГҐГ­ГјГёГҐГЈГ® ГЄГ®Г«ГЁГ·ГҐГ±ГІГўГ  ГЅГ«ГҐГ¬ГҐГ­ГІГ®Гў, ГІГ® ГўГ®Г§Г­ГЁГЄГ ГҐГІ ГЈГ®Г°Г Г§Г¤Г®
+Г¬ГҐГ­ГјГёГҐ ГЇГ°Г®ГЎГ«ГҐГ¬ ГЇГ°ГЁ ГҐГҐ ГЇГ°Г®ГўГҐГ¤ГҐГ­ГЁГЁ (ГЇГ® Г­ГҐГЄГ®ГІГ®Г°Г»Г¬ Г®Г¶ГҐГ­ГЄГ Г¬, ГЇГ°ГЁ ГЁГ±ГЇГ®Г«ГјГ§Г®ГўГ Г­ГЁГЁ
+ГЄГ Г±ГЄГ Г¤Г­Г®Г© Г¬Г®Г¤ГҐГ«ГЁ Г°Г Г§Г°Г ГЎГ®ГІГЄГЁ ГЁГ­ГІГҐГЈГ°Г Г¶ГЁГї Г§Г Г­ГЁГ¬Г ГҐГІ Г¤Г® 40 % ГўГ±ГҐГµ Г§Г ГІГ°Г ГІ Гў ГЄГ®Г­Г¶ГҐ
+ГЇГ°Г®ГҐГЄГІГ ). </p>
 
-<p class=MsoNormal>3. Уменьшение уровня рисков. Данное преимущество является
-следствием предыдущего, так как риски обнаруживаются именно во время
-интеграции. Поэтому уровень рисков максимален в начале разработки проекта. По
-мере продвижения разработки ожидаемый уровень рисков снижается. Данное
-утверждение справедливо при любой модели разработки, однако при использовании
-спиральной модели снижение уровня рисков происходит с наибольшей скоростью. Это
-связано с тем, что при данном подходе интеграция выполняется уже на первой
-итерации, и на начальных витках спирали выявляются многие аспекты проекта,
-такие как пригодность используемых инструментальных средств и программного
-обеспечения, квалификация разработчиков. </p>
+<p class=MsoNormal>3. Г“Г¬ГҐГ­ГјГёГҐГ­ГЁГҐ ГіГ°Г®ГўГ­Гї Г°ГЁГ±ГЄГ®Гў. Г„Г Г­Г­Г®ГҐ ГЇГ°ГҐГЁГ¬ГіГ№ГҐГ±ГІГўГ® ГїГўГ«ГїГҐГІГ±Гї
+Г±Г«ГҐГ¤Г±ГІГўГЁГҐГ¬ ГЇГ°ГҐГ¤Г»Г¤ГіГ№ГҐГЈГ®, ГІГ ГЄ ГЄГ ГЄ Г°ГЁГ±ГЄГЁ Г®ГЎГ­Г Г°ГіГ¦ГЁГўГ ГѕГІГ±Гї ГЁГ¬ГҐГ­Г­Г® ГўГ® ГўГ°ГҐГ¬Гї
+ГЁГ­ГІГҐГЈГ°Г Г¶ГЁГЁ. ГЏГ®ГЅГІГ®Г¬Гі ГіГ°Г®ГўГҐГ­Гј Г°ГЁГ±ГЄГ®Гў Г¬Г ГЄГ±ГЁГ¬Г Г«ГҐГ­ Гў Г­Г Г·Г Г«ГҐ Г°Г Г§Г°Г ГЎГ®ГІГЄГЁ ГЇГ°Г®ГҐГЄГІГ . ГЏГ®
+Г¬ГҐГ°ГҐ ГЇГ°Г®Г¤ГўГЁГ¦ГҐГ­ГЁГї Г°Г Г§Г°Г ГЎГ®ГІГЄГЁ Г®Г¦ГЁГ¤Г ГҐГ¬Г»Г© ГіГ°Г®ГўГҐГ­Гј Г°ГЁГ±ГЄГ®Гў Г±Г­ГЁГ¦Г ГҐГІГ±Гї. Г„Г Г­Г­Г®ГҐ
+ГіГІГўГҐГ°Г¦Г¤ГҐГ­ГЁГҐ Г±ГЇГ°Г ГўГҐГ¤Г«ГЁГўГ® ГЇГ°ГЁ Г«ГѕГЎГ®Г© Г¬Г®Г¤ГҐГ«ГЁ Г°Г Г§Г°Г ГЎГ®ГІГЄГЁ, Г®Г¤Г­Г ГЄГ® ГЇГ°ГЁ ГЁГ±ГЇГ®Г«ГјГ§Г®ГўГ Г­ГЁГЁ
+Г±ГЇГЁГ°Г Г«ГјГ­Г®Г© Г¬Г®Г¤ГҐГ«ГЁ Г±Г­ГЁГ¦ГҐГ­ГЁГҐ ГіГ°Г®ГўГ­Гї Г°ГЁГ±ГЄГ®Гў ГЇГ°Г®ГЁГ±ГµГ®Г¤ГЁГІ Г± Г­Г ГЁГЎГ®Г«ГјГёГҐГ© Г±ГЄГ®Г°Г®Г±ГІГјГѕ. ГќГІГ®
+Г±ГўГїГ§Г Г­Г® Г± ГІГҐГ¬, Г·ГІГ® ГЇГ°ГЁ Г¤Г Г­Г­Г®Г¬ ГЇГ®Г¤ГµГ®Г¤ГҐ ГЁГ­ГІГҐГЈГ°Г Г¶ГЁГї ГўГ»ГЇГ®Г«Г­ГїГҐГІГ±Гї ГіГ¦ГҐ Г­Г  ГЇГҐГ°ГўГ®Г©
+ГЁГІГҐГ°Г Г¶ГЁГЁ, ГЁ Г­Г  Г­Г Г·Г Г«ГјГ­Г»Гµ ГўГЁГІГЄГ Гµ Г±ГЇГЁГ°Г Г«ГЁ ГўГ»ГїГўГ«ГїГѕГІГ±Гї Г¬Г­Г®ГЈГЁГҐ Г Г±ГЇГҐГЄГІГ» ГЇГ°Г®ГҐГЄГІГ ,
+ГІГ ГЄГЁГҐ ГЄГ ГЄ ГЇГ°ГЁГЈГ®Г¤Г­Г®Г±ГІГј ГЁГ±ГЇГ®Г«ГјГ§ГіГҐГ¬Г»Гµ ГЁГ­Г±ГІГ°ГіГ¬ГҐГ­ГІГ Г«ГјГ­Г»Гµ Г±Г°ГҐГ¤Г±ГІГў ГЁ ГЇГ°Г®ГЈГ°Г Г¬Г¬Г­Г®ГЈГ®
+Г®ГЎГҐГ±ГЇГҐГ·ГҐГ­ГЁГї, ГЄГўГ Г«ГЁГґГЁГЄГ Г¶ГЁГї Г°Г Г§Г°Г ГЎГ®ГІГ·ГЁГЄГ®Гў. </p>
 
-<p class=MsoNormal>На рисунке 4 приведены в сравнении графики зависимости
-уровня рисков от времени разработки для каскадного и итерационного подходов.</p>
+<p class=MsoNormal>ГЌГ  Г°ГЁГ±ГіГ­ГЄГҐ 4 ГЇГ°ГЁГўГҐГ¤ГҐГ­Г» Гў Г±Г°Г ГўГ­ГҐГ­ГЁГЁ ГЈГ°Г ГґГЁГЄГЁ Г§Г ГўГЁГ±ГЁГ¬Г®Г±ГІГЁ
+ГіГ°Г®ГўГ­Гї Г°ГЁГ±ГЄГ®Гў Г®ГІ ГўГ°ГҐГ¬ГҐГ­ГЁ Г°Г Г§Г°Г ГЎГ®ГІГЄГЁ Г¤Г«Гї ГЄГ Г±ГЄГ Г¤Г­Г®ГЈГ® ГЁ ГЁГІГҐГ°Г Г¶ГЁГ®Г­Г­Г®ГЈГ® ГЇГ®Г¤ГµГ®Г¤Г®Гў.</p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
-style='mso-fareast-language:RU;mso-no-proof:yes'><v:shape id="Рисунок_x0020_4"
- o:spid="_x0000_i1027" type="#_x0000_t75" alt="Описание: https://ok-t.ru/studopedia/baza12/851797717438.files/image012.png"
+style='mso-fareast-language:RU;mso-no-proof:yes'><v:shape id="ГђГЁГ±ГіГ­Г®ГЄ_x0020_4"
+ o:spid="_x0000_i1027" type="#_x0000_t75" alt="ГЋГЇГЁГ±Г Г­ГЁГҐ: https://ok-t.ru/studopedia/baza12/851797717438.files/image012.png"
  style='width:225pt;height:137.25pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="модели%20жц%20ис.files/image004.png" o:title="image012"/>
+ <v:imagedata src="Г¬Г®Г¤ГҐГ«ГЁ%20Г¦Г¶%20ГЁГ±.files/image004.png" o:title="image012"/>
 </v:shape></span></p>
 
-<p class=MsoNormal align=center style='text-align:center'>Рисунок 4 -
-Зависимость рисков от времени разработки</p>
+<p class=MsoNormal align=center style='text-align:center'>ГђГЁГ±ГіГ­Г®ГЄ 4 -
+Г‡Г ГўГЁГ±ГЁГ¬Г®Г±ГІГј Г°ГЁГ±ГЄГ®Гў Г®ГІ ГўГ°ГҐГ¬ГҐГ­ГЁ Г°Г Г§Г°Г ГЎГ®ГІГЄГЁ</p>
 
-<p class=MsoNormal>4. Итерационная разработка обеспечивает большую гибкость в
-управлении проектом, давая возможность внесения тактических изменений в
-разрабатываемое изделие. Например, можно сократить сроки разработки за счет
-снижения функциональности системы или использовать в качестве составных частей
-системы продукцию сторонних фирм вместо собственных разработок. </p>
+<p class=MsoNormal>4. Г€ГІГҐГ°Г Г¶ГЁГ®Г­Г­Г Гї Г°Г Г§Г°Г ГЎГ®ГІГЄГ  Г®ГЎГҐГ±ГЇГҐГ·ГЁГўГ ГҐГІ ГЎГ®Г«ГјГёГіГѕ ГЈГЁГЎГЄГ®Г±ГІГј Гў
+ГіГЇГ°Г ГўГ«ГҐГ­ГЁГЁ ГЇГ°Г®ГҐГЄГІГ®Г¬, Г¤Г ГўГ Гї ГўГ®Г§Г¬Г®Г¦Г­Г®Г±ГІГј ГўГ­ГҐГ±ГҐГ­ГЁГї ГІГ ГЄГІГЁГ·ГҐГ±ГЄГЁГµ ГЁГ§Г¬ГҐГ­ГҐГ­ГЁГ© Гў
+Г°Г Г§Г°Г ГЎГ ГІГ»ГўГ ГҐГ¬Г®ГҐ ГЁГ§Г¤ГҐГ«ГЁГҐ. ГЌГ ГЇГ°ГЁГ¬ГҐГ°, Г¬Г®Г¦Г­Г® Г±Г®ГЄГ°Г ГІГЁГІГј Г±Г°Г®ГЄГЁ Г°Г Г§Г°Г ГЎГ®ГІГЄГЁ Г§Г  Г±Г·ГҐГІ
+Г±Г­ГЁГ¦ГҐГ­ГЁГї ГґГіГ­ГЄГ¶ГЁГ®Г­Г Г«ГјГ­Г®Г±ГІГЁ Г±ГЁГ±ГІГҐГ¬Г» ГЁГ«ГЁ ГЁГ±ГЇГ®Г«ГјГ§Г®ГўГ ГІГј Гў ГЄГ Г·ГҐГ±ГІГўГҐ Г±Г®Г±ГІГ ГўГ­Г»Гµ Г·Г Г±ГІГҐГ©
+Г±ГЁГ±ГІГҐГ¬Г» ГЇГ°Г®Г¤ГіГЄГ¶ГЁГѕ Г±ГІГ®Г°Г®Г­Г­ГЁГµ ГґГЁГ°Г¬ ГўГ¬ГҐГ±ГІГ® Г±Г®ГЎГ±ГІГўГҐГ­Г­Г»Гµ Г°Г Г§Г°Г ГЎГ®ГІГ®ГЄ. </p>
 
-<p class=MsoNormal>5. Итерационный подход спиральной модели ЖЦ упрощает
-повторное использование компонентов (реализует компонентный подход к
-программированию). Это обусловлено тем, что гораздо проще выявить
-(идентифицировать) общие части проекта, когда они уже частично разработаны, чем
-пытаться выделить их в самом начале проекта. Анализ проекта после проведения
-нескольких начальных итераций позволяет выявить общие многократно используемые
-компоненты, которые на последующих итерациях будут совершенствоваться.</p>
+<p class=MsoNormal>5. Г€ГІГҐГ°Г Г¶ГЁГ®Г­Г­Г»Г© ГЇГ®Г¤ГµГ®Г¤ Г±ГЇГЁГ°Г Г«ГјГ­Г®Г© Г¬Г®Г¤ГҐГ«ГЁ Г†Г– ГіГЇГ°Г®Г№Г ГҐГІ
+ГЇГ®ГўГІГ®Г°Г­Г®ГҐ ГЁГ±ГЇГ®Г«ГјГ§Г®ГўГ Г­ГЁГҐ ГЄГ®Г¬ГЇГ®Г­ГҐГ­ГІГ®Гў (Г°ГҐГ Г«ГЁГ§ГіГҐГІ ГЄГ®Г¬ГЇГ®Г­ГҐГ­ГІГ­Г»Г© ГЇГ®Г¤ГµГ®Г¤ ГЄ
+ГЇГ°Г®ГЈГ°Г Г¬Г¬ГЁГ°Г®ГўГ Г­ГЁГѕ). ГќГІГ® Г®ГЎГіГ±Г«Г®ГўГ«ГҐГ­Г® ГІГҐГ¬, Г·ГІГ® ГЈГ®Г°Г Г§Г¤Г® ГЇГ°Г®Г№ГҐ ГўГ»ГїГўГЁГІГј
+(ГЁГ¤ГҐГ­ГІГЁГґГЁГ¶ГЁГ°Г®ГўГ ГІГј) Г®ГЎГ№ГЁГҐ Г·Г Г±ГІГЁ ГЇГ°Г®ГҐГЄГІГ , ГЄГ®ГЈГ¤Г  Г®Г­ГЁ ГіГ¦ГҐ Г·Г Г±ГІГЁГ·Г­Г® Г°Г Г§Г°Г ГЎГ®ГІГ Г­Г», Г·ГҐГ¬
+ГЇГ»ГІГ ГІГјГ±Гї ГўГ»Г¤ГҐГ«ГЁГІГј ГЁГµ Гў Г±Г Г¬Г®Г¬ Г­Г Г·Г Г«ГҐ ГЇГ°Г®ГҐГЄГІГ . ГЂГ­Г Г«ГЁГ§ ГЇГ°Г®ГҐГЄГІГ  ГЇГ®Г±Г«ГҐ ГЇГ°Г®ГўГҐГ¤ГҐГ­ГЁГї
+Г­ГҐГ±ГЄГ®Г«ГјГЄГЁГµ Г­Г Г·Г Г«ГјГ­Г»Гµ ГЁГІГҐГ°Г Г¶ГЁГ© ГЇГ®Г§ГўГ®Г«ГїГҐГІ ГўГ»ГїГўГЁГІГј Г®ГЎГ№ГЁГҐ Г¬Г­Г®ГЈГ®ГЄГ°Г ГІГ­Г® ГЁГ±ГЇГ®Г«ГјГ§ГіГҐГ¬Г»ГҐ
+ГЄГ®Г¬ГЇГ®Г­ГҐГ­ГІГ», ГЄГ®ГІГ®Г°Г»ГҐ Г­Г  ГЇГ®Г±Г«ГҐГ¤ГіГѕГ№ГЁГµ ГЁГІГҐГ°Г Г¶ГЁГїГµ ГЎГіГ¤ГіГІ Г±Г®ГўГҐГ°ГёГҐГ­Г±ГІГўГ®ГўГ ГІГјГ±Гї.</p>
 
-<p class=MsoNormal>6. Итерационный подход дает возможность совершенствовать
-процесс разработки — анализ, проводимый в конце каждой итерации, позволяет
-проводить оценку того, что должно быть изменено в организации разработки, и
-улучшить ее на следующей итерации. </p>
+<p class=MsoNormal>6. Г€ГІГҐГ°Г Г¶ГЁГ®Г­Г­Г»Г© ГЇГ®Г¤ГµГ®Г¤ Г¤Г ГҐГІ ГўГ®Г§Г¬Г®Г¦Г­Г®Г±ГІГј Г±Г®ГўГҐГ°ГёГҐГ­Г±ГІГўГ®ГўГ ГІГј
+ГЇГ°Г®Г¶ГҐГ±Г± Г°Г Г§Г°Г ГЎГ®ГІГЄГЁ В— Г Г­Г Г«ГЁГ§, ГЇГ°Г®ГўГ®Г¤ГЁГ¬Г»Г© Гў ГЄГ®Г­Г¶ГҐ ГЄГ Г¦Г¤Г®Г© ГЁГІГҐГ°Г Г¶ГЁГЁ, ГЇГ®Г§ГўГ®Г«ГїГҐГІ
+ГЇГ°Г®ГўГ®Г¤ГЁГІГј Г®Г¶ГҐГ­ГЄГі ГІГ®ГЈГ®, Г·ГІГ® Г¤Г®Г«Г¦Г­Г® ГЎГ»ГІГј ГЁГ§Г¬ГҐГ­ГҐГ­Г® Гў Г®Г°ГЈГ Г­ГЁГ§Г Г¶ГЁГЁ Г°Г Г§Г°Г ГЎГ®ГІГЄГЁ, ГЁ
+ГіГ«ГіГ·ГёГЁГІГј ГҐГҐ Г­Г  Г±Г«ГҐГ¤ГіГѕГ№ГҐГ© ГЁГІГҐГ°Г Г¶ГЁГЁ. </p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Недостатки спиральной
-модели</b>. Основная проблема спирального цикла — определение момента перехода
-на следующий этап. Для ее решения необходимо ввести временные ограничения на
-каждый из этапов жизненного цикла. Иначе процесс разработки может превратиться
-в бесконечное совершенствование уже сделанного. При итерационном подходе
-полезно следовать принципу «лучшее — враг хорошего». Поэтому завершение
-итерации необходимо проводить строго в соответствии с планом, даже если не вся
-запланированная работа закончена. Планирование работ обычно проводится на
-основе статистических данных, полученных в предыдущих проектах, и личного опыта
-разработчиков. </p>
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>ГЌГҐГ¤Г®Г±ГІГ ГІГЄГЁ Г±ГЇГЁГ°Г Г«ГјГ­Г®Г©
+Г¬Г®Г¤ГҐГ«ГЁ</b>. ГЋГ±Г­Г®ГўГ­Г Гї ГЇГ°Г®ГЎГ«ГҐГ¬Г  Г±ГЇГЁГ°Г Г«ГјГ­Г®ГЈГ® Г¶ГЁГЄГ«Г  В— Г®ГЇГ°ГҐГ¤ГҐГ«ГҐГ­ГЁГҐ Г¬Г®Г¬ГҐГ­ГІГ  ГЇГҐГ°ГҐГµГ®Г¤Г 
+Г­Г  Г±Г«ГҐГ¤ГіГѕГ№ГЁГ© ГЅГІГ ГЇ. Г„Г«Гї ГҐГҐ Г°ГҐГёГҐГ­ГЁГї Г­ГҐГ®ГЎГµГ®Г¤ГЁГ¬Г® ГўГўГҐГ±ГІГЁ ГўГ°ГҐГ¬ГҐГ­Г­Г»ГҐ Г®ГЈГ°Г Г­ГЁГ·ГҐГ­ГЁГї Г­Г 
+ГЄГ Г¦Г¤Г»Г© ГЁГ§ ГЅГІГ ГЇГ®Гў Г¦ГЁГ§Г­ГҐГ­Г­Г®ГЈГ® Г¶ГЁГЄГ«Г . Г€Г­Г Г·ГҐ ГЇГ°Г®Г¶ГҐГ±Г± Г°Г Г§Г°Г ГЎГ®ГІГЄГЁ Г¬Г®Г¦ГҐГІ ГЇГ°ГҐГўГ°Г ГІГЁГІГјГ±Гї
+Гў ГЎГҐГ±ГЄГ®Г­ГҐГ·Г­Г®ГҐ Г±Г®ГўГҐГ°ГёГҐГ­Г±ГІГўГ®ГўГ Г­ГЁГҐ ГіГ¦ГҐ Г±Г¤ГҐГ«Г Г­Г­Г®ГЈГ®. ГЏГ°ГЁ ГЁГІГҐГ°Г Г¶ГЁГ®Г­Г­Г®Г¬ ГЇГ®Г¤ГµГ®Г¤ГҐ
+ГЇГ®Г«ГҐГ§Г­Г® Г±Г«ГҐГ¤Г®ГўГ ГІГј ГЇГ°ГЁГ­Г¶ГЁГЇГі В«Г«ГіГ·ГёГҐГҐ В— ГўГ°Г ГЈ ГµГ®Г°Г®ГёГҐГЈГ®В». ГЏГ®ГЅГІГ®Г¬Гі Г§Г ГўГҐГ°ГёГҐГ­ГЁГҐ
+ГЁГІГҐГ°Г Г¶ГЁГЁ Г­ГҐГ®ГЎГµГ®Г¤ГЁГ¬Г® ГЇГ°Г®ГўГ®Г¤ГЁГІГј Г±ГІГ°Г®ГЈГ® Гў Г±Г®Г®ГІГўГҐГІГ±ГІГўГЁГЁ Г± ГЇГ«Г Г­Г®Г¬, Г¤Г Г¦ГҐ ГҐГ±Г«ГЁ Г­ГҐ ГўГ±Гї
+Г§Г ГЇГ«Г Г­ГЁГ°Г®ГўГ Г­Г­Г Гї Г°Г ГЎГ®ГІГ  Г§Г ГЄГ®Г­Г·ГҐГ­Г . ГЏГ«Г Г­ГЁГ°Г®ГўГ Г­ГЁГҐ Г°Г ГЎГ®ГІ Г®ГЎГ»Г·Г­Г® ГЇГ°Г®ГўГ®Г¤ГЁГІГ±Гї Г­Г 
+Г®Г±Г­Г®ГўГҐ Г±ГІГ ГІГЁГ±ГІГЁГ·ГҐГ±ГЄГЁГµ Г¤Г Г­Г­Г»Гµ, ГЇГ®Г«ГіГ·ГҐГ­Г­Г»Гµ Гў ГЇГ°ГҐГ¤Г»Г¤ГіГ№ГЁГµ ГЇГ°Г®ГҐГЄГІГ Гµ, ГЁ Г«ГЁГ·Г­Г®ГЈГ® Г®ГЇГ»ГІГ 
+Г°Г Г§Г°Г ГЎГ®ГІГ·ГЁГЄГ®Гў. </p>
 
 <p class=MsoListParagraph style='margin-left:0cm;mso-add-space:auto;mso-list:
 l0 level1 lfo1'><![if !supportLists]><b style='mso-bidi-font-weight:normal'><span
 style='mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman"'><span
 style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span></b><![endif]><b style='mso-bidi-font-weight:normal'>Инкрементная
-модель </b>жизненного цикла (рис. 5) представляет собой пример итеративного
-подхода к разработке программного обеспечения ИС, который предполагает
-разбиение жизненного цикла проекта на последовательность итераций, каждая из
-которых напоминает «мини-проект», включающий все фазы жизненного цикла в применении
-к созданию отдельных версий системы, обладающих меньшей функциональностью по
-сравнению с проектом, в целом. </p>
+</span></span></span></b><![endif]><b style='mso-bidi-font-weight:normal'>Г€Г­ГЄГ°ГҐГ¬ГҐГ­ГІГ­Г Гї
+Г¬Г®Г¤ГҐГ«Гј </b>Г¦ГЁГ§Г­ГҐГ­Г­Г®ГЈГ® Г¶ГЁГЄГ«Г  (Г°ГЁГ±. 5) ГЇГ°ГҐГ¤Г±ГІГ ГўГ«ГїГҐГІ Г±Г®ГЎГ®Г© ГЇГ°ГЁГ¬ГҐГ° ГЁГІГҐГ°Г ГІГЁГўГ­Г®ГЈГ®
+ГЇГ®Г¤ГµГ®Г¤Г  ГЄ Г°Г Г§Г°Г ГЎГ®ГІГЄГҐ ГЇГ°Г®ГЈГ°Г Г¬Г¬Г­Г®ГЈГ® Г®ГЎГҐГ±ГЇГҐГ·ГҐГ­ГЁГї Г€Г‘, ГЄГ®ГІГ®Г°Г»Г© ГЇГ°ГҐГ¤ГЇГ®Г«Г ГЈГ ГҐГІ
+Г°Г Г§ГЎГЁГҐГ­ГЁГҐ Г¦ГЁГ§Г­ГҐГ­Г­Г®ГЈГ® Г¶ГЁГЄГ«Г  ГЇГ°Г®ГҐГЄГІГ  Г­Г  ГЇГ®Г±Г«ГҐГ¤Г®ГўГ ГІГҐГ«ГјГ­Г®Г±ГІГј ГЁГІГҐГ°Г Г¶ГЁГ©, ГЄГ Г¦Г¤Г Гї ГЁГ§
+ГЄГ®ГІГ®Г°Г»Гµ Г­Г ГЇГ®Г¬ГЁГ­Г ГҐГІ В«Г¬ГЁГ­ГЁ-ГЇГ°Г®ГҐГЄГІВ», ГўГЄГ«ГѕГ·Г ГѕГ№ГЁГ© ГўГ±ГҐ ГґГ Г§Г» Г¦ГЁГ§Г­ГҐГ­Г­Г®ГЈГ® Г¶ГЁГЄГ«Г  Гў ГЇГ°ГЁГ¬ГҐГ­ГҐГ­ГЁГЁ
+ГЄ Г±Г®Г§Г¤Г Г­ГЁГѕ Г®ГІГ¤ГҐГ«ГјГ­Г»Гµ ГўГҐГ°Г±ГЁГ© Г±ГЁГ±ГІГҐГ¬Г», Г®ГЎГ«Г Г¤Г ГѕГ№ГЁГµ Г¬ГҐГ­ГјГёГҐГ© ГґГіГ­ГЄГ¶ГЁГ®Г­Г Г«ГјГ­Г®Г±ГІГјГѕ ГЇГ®
+Г±Г°Г ГўГ­ГҐГ­ГЁГѕ Г± ГЇГ°Г®ГҐГЄГІГ®Г¬, Гў Г¶ГҐГ«Г®Г¬. </p>
 
-<p class=MsoNormal>При этом на каждой итерации получается работающая версия
-программной системы, обладающая функциональностью всех предыдущих плюс текущей
-итерации. В результате финальной итерации получается конечный продукт,
-обеспечивающий реализацию всех требований. С точки зрения структуры жизненного
-цикла модель называют итеративной (говоря о процессе). </p>
+<p class=MsoNormal>ГЏГ°ГЁ ГЅГІГ®Г¬ Г­Г  ГЄГ Г¦Г¤Г®Г© ГЁГІГҐГ°Г Г¶ГЁГЁ ГЇГ®Г«ГіГ·Г ГҐГІГ±Гї Г°Г ГЎГ®ГІГ ГѕГ№Г Гї ГўГҐГ°Г±ГЁГї
+ГЇГ°Г®ГЈГ°Г Г¬Г¬Г­Г®Г© Г±ГЁГ±ГІГҐГ¬Г», Г®ГЎГ«Г Г¤Г ГѕГ№Г Гї ГґГіГ­ГЄГ¶ГЁГ®Г­Г Г«ГјГ­Г®Г±ГІГјГѕ ГўГ±ГҐГµ ГЇГ°ГҐГ¤Г»Г¤ГіГ№ГЁГµ ГЇГ«ГѕГ± ГІГҐГЄГіГ№ГҐГ©
+ГЁГІГҐГ°Г Г¶ГЁГЁ. Г‚ Г°ГҐГ§ГіГ«ГјГІГ ГІГҐ ГґГЁГ­Г Г«ГјГ­Г®Г© ГЁГІГҐГ°Г Г¶ГЁГЁ ГЇГ®Г«ГіГ·Г ГҐГІГ±Гї ГЄГ®Г­ГҐГ·Г­Г»Г© ГЇГ°Г®Г¤ГіГЄГІ,
+Г®ГЎГҐГ±ГЇГҐГ·ГЁГўГ ГѕГ№ГЁГ© Г°ГҐГ Г«ГЁГ§Г Г¶ГЁГѕ ГўГ±ГҐГµ ГІГ°ГҐГЎГ®ГўГ Г­ГЁГ©. Г‘ ГІГ®Г·ГЄГЁ Г§Г°ГҐГ­ГЁГї Г±ГІГ°ГіГЄГІГіГ°Г» Г¦ГЁГ§Г­ГҐГ­Г­Г®ГЈГ®
+Г¶ГЁГЄГ«Г  Г¬Г®Г¤ГҐГ«Гј Г­Г Г§Г»ГўГ ГѕГІ ГЁГІГҐГ°Г ГІГЁГўГ­Г®Г© (ГЈГ®ГўГ®Г°Гї Г® ГЇГ°Г®Г¶ГҐГ±Г±ГҐ). </p>
 
-<p class=MsoNormal>С точки зрения развития продукта – инкрементной (имеется
-ввиду наращивание функциональности продукта). Инкремент – приращение,
-увеличение (например, в языке программирование – увеличение значения переменной
-на 1).</p>
+<p class=MsoNormal>Г‘ ГІГ®Г·ГЄГЁ Г§Г°ГҐГ­ГЁГї Г°Г Г§ГўГЁГІГЁГї ГЇГ°Г®Г¤ГіГЄГІГ  В– ГЁГ­ГЄГ°ГҐГ¬ГҐГ­ГІГ­Г®Г© (ГЁГ¬ГҐГҐГІГ±Гї
+ГўГўГЁГ¤Гі Г­Г Г°Г Г№ГЁГўГ Г­ГЁГҐ ГґГіГ­ГЄГ¶ГЁГ®Г­Г Г«ГјГ­Г®Г±ГІГЁ ГЇГ°Г®Г¤ГіГЄГІГ ). Г€Г­ГЄГ°ГҐГ¬ГҐГ­ГІ В– ГЇГ°ГЁГ°Г Г№ГҐГ­ГЁГҐ,
+ГіГўГҐГ«ГЁГ·ГҐГ­ГЁГҐ (Г­Г ГЇГ°ГЁГ¬ГҐГ°, Гў ГїГ§Г»ГЄГҐ ГЇГ°Г®ГЈГ°Г Г¬Г¬ГЁГ°Г®ГўГ Г­ГЁГҐ В– ГіГўГҐГ«ГЁГ·ГҐГ­ГЁГҐ Г§Г­Г Г·ГҐГ­ГЁГї ГЇГҐГ°ГҐГ¬ГҐГ­Г­Г®Г©
+Г­Г  1).</p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
-style='mso-fareast-language:RU;mso-no-proof:yes'><v:shape id="Рисунок_x0020_5"
- o:spid="_x0000_i1026" type="#_x0000_t75" alt="Описание: https://cf2.ppt-online.org/files2/slide/t/tnKWwZD3eETcmas0BpdzMUF89V5YLfSr7kCAPb/slide-10.jpg"
+style='mso-fareast-language:RU;mso-no-proof:yes'><v:shape id="ГђГЁГ±ГіГ­Г®ГЄ_x0020_5"
+ o:spid="_x0000_i1026" type="#_x0000_t75" alt="ГЋГЇГЁГ±Г Г­ГЁГҐ: https://cf2.ppt-online.org/files2/slide/t/tnKWwZD3eETcmas0BpdzMUF89V5YLfSr7kCAPb/slide-10.jpg"
  style='width:309pt;height:162.75pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="модели%20жц%20ис.files/image005.jpg" o:title="slide-10"
+ <v:imagedata src="Г¬Г®Г¤ГҐГ«ГЁ%20Г¦Г¶%20ГЁГ±.files/image005.jpg" o:title="slide-10"
   croptop="10912f" cropbottom="8541f"/>
 </v:shape></span></p>
 
-<p class=MsoNormal>Рисунок 5 - Инкрементная модель жизненного цикла</p>
+<p class=MsoNormal>ГђГЁГ±ГіГ­Г®ГЄ 5 - Г€Г­ГЄГ°ГҐГ¬ГҐГ­ГІГ­Г Гї Г¬Г®Г¤ГҐГ«Гј Г¦ГЁГ§Г­ГҐГ­Г­Г®ГЈГ® Г¶ГЁГЄГ«Г </p>
 
-<p class=MsoNormal>Для каждого инкремента выполняется:</p>
+<p class=MsoNormal>Г„Г«Гї ГЄГ Г¦Г¤Г®ГЈГ® ГЁГ­ГЄГ°ГҐГ¬ГҐГ­ГІГ  ГўГ»ГЇГ®Г«Г­ГїГҐГІГ±Гї:</p>
 
-<p class=MsoNormal>Анализ, на котором мы собираем требования и анализируем, и
-планируем сам инкремент; </p>
-
-<p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
-mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-Проектирование, на котором происходит проектирование архитектуры,
-допроектирование тех вещей, которые не были сделаны на предыдущем инкременте; </p>
+<p class=MsoNormal>ГЂГ­Г Г«ГЁГ§, Г­Г  ГЄГ®ГІГ®Г°Г®Г¬ Г¬Г» Г±Г®ГЎГЁГ°Г ГҐГ¬ ГІГ°ГҐГЎГ®ГўГ Г­ГЁГї ГЁ Г Г­Г Г«ГЁГ§ГЁГ°ГіГҐГ¬, ГЁ
+ГЇГ«Г Г­ГЁГ°ГіГҐГ¬ Г±Г Г¬ ГЁГ­ГЄГ°ГҐГ¬ГҐГ­ГІ; </p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-Разработка; </p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+ГЏГ°Г®ГҐГЄГІГЁГ°Г®ГўГ Г­ГЁГҐ, Г­Г  ГЄГ®ГІГ®Г°Г®Г¬ ГЇГ°Г®ГЁГ±ГµГ®Г¤ГЁГІ ГЇГ°Г®ГҐГЄГІГЁГ°Г®ГўГ Г­ГЁГҐ Г Г°ГµГЁГІГҐГЄГІГіГ°Г»,
+Г¤Г®ГЇГ°Г®ГҐГЄГІГЁГ°Г®ГўГ Г­ГЁГҐ ГІГҐГµ ГўГҐГ№ГҐГ©, ГЄГ®ГІГ®Г°Г»ГҐ Г­ГҐ ГЎГ»Г«ГЁ Г±Г¤ГҐГ«Г Г­Г» Г­Г  ГЇГ°ГҐГ¤Г»Г¤ГіГ№ГҐГ¬ ГЁГ­ГЄГ°ГҐГ¬ГҐГ­ГІГҐ; </p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-Тестирование.</p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+ГђГ Г§Г°Г ГЎГ®ГІГЄГ ; </p>
 
-<p class=MsoNormal>Важно, что каждый инкремент заканчивается работающим
-продуктом. Пусть он ограниченной функциональности, пусть у него не все
-реализовано, но это отдельный продукт, который можно показать, который можно
-отдать заказчику на тестирование. </p>
+<p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+Г’ГҐГ±ГІГЁГ°Г®ГўГ Г­ГЁГҐ.</p>
 
-<p class=MsoNormal>Сам подход является однократным, т.е. мы весь наш проект
-делаем за один большой этап, имея в виду требования, но весь проект делится на
-инкременты, это небольшие версии продуктов, для которых заранее определена
-функциональность. Т.е. мы говорим, что у нас вся длительная разработка состоит,
-например, из 5 фаз. На первом этапе получим однопользовательскую версию, на
-втором инкременте (фазе) мы получим версию, которая поддерживает много
-пользователей, на третьем инкременте у нас появится поддержка веб-интерфейсов,
-а на четвертом какое-нибудь протоколирование и т.д. (рис. 6). Т.е. хоть
-требования у нас все равно задаются только один раз, но на выходе у нас
-появляется несколько инкрементов.</p>
+<p class=MsoNormal>Г‚Г Г¦Г­Г®, Г·ГІГ® ГЄГ Г¦Г¤Г»Г© ГЁГ­ГЄГ°ГҐГ¬ГҐГ­ГІ Г§Г ГЄГ Г­Г·ГЁГўГ ГҐГІГ±Гї Г°Г ГЎГ®ГІГ ГѕГ№ГЁГ¬
+ГЇГ°Г®Г¤ГіГЄГІГ®Г¬. ГЏГіГ±ГІГј Г®Г­ Г®ГЈГ°Г Г­ГЁГ·ГҐГ­Г­Г®Г© ГґГіГ­ГЄГ¶ГЁГ®Г­Г Г«ГјГ­Г®Г±ГІГЁ, ГЇГіГ±ГІГј Гі Г­ГҐГЈГ® Г­ГҐ ГўГ±ГҐ
+Г°ГҐГ Г«ГЁГ§Г®ГўГ Г­Г®, Г­Г® ГЅГІГ® Г®ГІГ¤ГҐГ«ГјГ­Г»Г© ГЇГ°Г®Г¤ГіГЄГІ, ГЄГ®ГІГ®Г°Г»Г© Г¬Г®Г¦Г­Г® ГЇГ®ГЄГ Г§Г ГІГј, ГЄГ®ГІГ®Г°Г»Г© Г¬Г®Г¦Г­Г®
+Г®ГІГ¤Г ГІГј Г§Г ГЄГ Г§Г·ГЁГЄГі Г­Г  ГІГҐГ±ГІГЁГ°Г®ГўГ Г­ГЁГҐ. </p>
+
+<p class=MsoNormal>Г‘Г Г¬ ГЇГ®Г¤ГµГ®Г¤ ГїГўГ«ГїГҐГІГ±Гї Г®Г¤Г­Г®ГЄГ°Г ГІГ­Г»Г¬, ГІ.ГҐ. Г¬Г» ГўГҐГ±Гј Г­Г Гё ГЇГ°Г®ГҐГЄГІ
+Г¤ГҐГ«Г ГҐГ¬ Г§Г  Г®Г¤ГЁГ­ ГЎГ®Г«ГјГёГ®Г© ГЅГІГ ГЇ, ГЁГ¬ГҐГї Гў ГўГЁГ¤Гі ГІГ°ГҐГЎГ®ГўГ Г­ГЁГї, Г­Г® ГўГҐГ±Гј ГЇГ°Г®ГҐГЄГІ Г¤ГҐГ«ГЁГІГ±Гї Г­Г 
+ГЁГ­ГЄГ°ГҐГ¬ГҐГ­ГІГ», ГЅГІГ® Г­ГҐГЎГ®Г«ГјГёГЁГҐ ГўГҐГ°Г±ГЁГЁ ГЇГ°Г®Г¤ГіГЄГІГ®Гў, Г¤Г«Гї ГЄГ®ГІГ®Г°Г»Гµ Г§Г Г°Г Г­ГҐГҐ Г®ГЇГ°ГҐГ¤ГҐГ«ГҐГ­Г 
+ГґГіГ­ГЄГ¶ГЁГ®Г­Г Г«ГјГ­Г®Г±ГІГј. Г’.ГҐ. Г¬Г» ГЈГ®ГўГ®Г°ГЁГ¬, Г·ГІГ® Гі Г­Г Г± ГўГ±Гї Г¤Г«ГЁГІГҐГ«ГјГ­Г Гї Г°Г Г§Г°Г ГЎГ®ГІГЄГ  Г±Г®Г±ГІГ®ГЁГІ,
+Г­Г ГЇГ°ГЁГ¬ГҐГ°, ГЁГ§ 5 ГґГ Г§. ГЌГ  ГЇГҐГ°ГўГ®Г¬ ГЅГІГ ГЇГҐ ГЇГ®Г«ГіГ·ГЁГ¬ Г®Г¤Г­Г®ГЇГ®Г«ГјГ§Г®ГўГ ГІГҐГ«ГјГ±ГЄГіГѕ ГўГҐГ°Г±ГЁГѕ, Г­Г 
+ГўГІГ®Г°Г®Г¬ ГЁГ­ГЄГ°ГҐГ¬ГҐГ­ГІГҐ (ГґГ Г§ГҐ) Г¬Г» ГЇГ®Г«ГіГ·ГЁГ¬ ГўГҐГ°Г±ГЁГѕ, ГЄГ®ГІГ®Г°Г Гї ГЇГ®Г¤Г¤ГҐГ°Г¦ГЁГўГ ГҐГІ Г¬Г­Г®ГЈГ®
+ГЇГ®Г«ГјГ§Г®ГўГ ГІГҐГ«ГҐГ©, Г­Г  ГІГ°ГҐГІГјГҐГ¬ ГЁГ­ГЄГ°ГҐГ¬ГҐГ­ГІГҐ Гі Г­Г Г± ГЇГ®ГїГўГЁГІГ±Гї ГЇГ®Г¤Г¤ГҐГ°Г¦ГЄГ  ГўГҐГЎ-ГЁГ­ГІГҐГ°ГґГҐГ©Г±Г®Гў,
+Г  Г­Г  Г·ГҐГІГўГҐГ°ГІГ®Г¬ ГЄГ ГЄГ®ГҐ-Г­ГЁГЎГіГ¤Гј ГЇГ°Г®ГІГ®ГЄГ®Г«ГЁГ°Г®ГўГ Г­ГЁГҐ ГЁ ГІ.Г¤. (Г°ГЁГ±. 6). Г’.ГҐ. ГµГ®ГІГј
+ГІГ°ГҐГЎГ®ГўГ Г­ГЁГї Гі Г­Г Г± ГўГ±ГҐ Г°Г ГўГ­Г® Г§Г Г¤Г ГѕГІГ±Гї ГІГ®Г«ГјГЄГ® Г®Г¤ГЁГ­ Г°Г Г§, Г­Г® Г­Г  ГўГ»ГµГ®Г¤ГҐ Гі Г­Г Г±
+ГЇГ®ГїГўГ«ГїГҐГІГ±Гї Г­ГҐГ±ГЄГ®Г«ГјГЄГ® ГЁГ­ГЄГ°ГҐГ¬ГҐГ­ГІГ®Гў.</p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
-style='mso-fareast-language:RU;mso-no-proof:yes'><v:shape id="Рисунок_x0020_6"
- o:spid="_x0000_i1025" type="#_x0000_t75" alt="Описание: https://cf.ppt-online.org/files/slide/r/RMZn4QgX0OPptGLsxJ6KDBVkAS7Trj135eHq9W/slide-12.jpg"
+style='mso-fareast-language:RU;mso-no-proof:yes'><v:shape id="ГђГЁГ±ГіГ­Г®ГЄ_x0020_6"
+ o:spid="_x0000_i1025" type="#_x0000_t75" alt="ГЋГЇГЁГ±Г Г­ГЁГҐ: https://cf.ppt-online.org/files/slide/r/RMZn4QgX0OPptGLsxJ6KDBVkAS7Trj135eHq9W/slide-12.jpg"
  style='width:321.75pt;height:171.75pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="модели%20жц%20ис.files/image006.jpg" o:title="slide-12"
+ <v:imagedata src="Г¬Г®Г¤ГҐГ«ГЁ%20Г¦Г¶%20ГЁГ±.files/image006.jpg" o:title="slide-12"
   croptop="15816f" cropbottom="3033f"/>
 </v:shape></span></p>
 
-<p class=MsoNormal align=center style='text-align:center'>Рисунок 6 -
-Иллюстрация различий между инкрементной и итеративной (спиральной) моделями</p>
+<p class=MsoNormal align=center style='text-align:center'>ГђГЁГ±ГіГ­Г®ГЄ 6 -
+Г€Г«Г«ГѕГ±ГІГ°Г Г¶ГЁГї Г°Г Г§Г«ГЁГ·ГЁГ© Г¬ГҐГ¦Г¤Гі ГЁГ­ГЄГ°ГҐГ¬ГҐГ­ГІГ­Г®Г© ГЁ ГЁГІГҐГ°Г ГІГЁГўГ­Г®Г© (Г±ГЇГЁГ°Г Г«ГјГ­Г®Г©) Г¬Г®Г¤ГҐГ«ГїГ¬ГЁ</p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Преимущества
-инкрементной модели</b>: </p>
-
-<p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
-mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-на момент создания определенного инкремента требования стабилизируются,
-поскольку не являющиеся особо важными изменения отодвигаются на момент создания
-последующих инкрементов; </p>
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>ГЏГ°ГҐГЁГ¬ГіГ№ГҐГ±ГІГўГ 
+ГЁГ­ГЄГ°ГҐГ¬ГҐГ­ГІГ­Г®Г© Г¬Г®Г¤ГҐГ«ГЁ</b>: </p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-не требуется заранее тратить средства, необходимые для разработки всего
-проекта, поскольку сначала выполняется разработка и реализация основной функции
-или функции из группы высокого риска;<span style='mso-spacerun:yes'>  </span></p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+Г­Г  Г¬Г®Г¬ГҐГ­ГІ Г±Г®Г§Г¤Г Г­ГЁГї Г®ГЇГ°ГҐГ¤ГҐГ«ГҐГ­Г­Г®ГЈГ® ГЁГ­ГЄГ°ГҐГ¬ГҐГ­ГІГ  ГІГ°ГҐГЎГ®ГўГ Г­ГЁГї Г±ГІГ ГЎГЁГ«ГЁГ§ГЁГ°ГіГѕГІГ±Гї,
+ГЇГ®Г±ГЄГ®Г«ГјГЄГі Г­ГҐ ГїГўГ«ГїГѕГ№ГЁГҐГ±Гї Г®Г±Г®ГЎГ® ГўГ Г¦Г­Г»Г¬ГЁ ГЁГ§Г¬ГҐГ­ГҐГ­ГЁГї Г®ГІГ®Г¤ГўГЁГЈГ ГѕГІГ±Гї Г­Г  Г¬Г®Г¬ГҐГ­ГІ Г±Г®Г§Г¤Г Г­ГЁГї
+ГЇГ®Г±Г«ГҐГ¤ГіГѕГ№ГЁГµ ГЁГ­ГЄГ°ГҐГ¬ГҐГ­ГІГ®Гў; </p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-в результате выполнения каждого инкремента получается функциональный продукт; </p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+Г­ГҐ ГІГ°ГҐГЎГіГҐГІГ±Гї Г§Г Г°Г Г­ГҐГҐ ГІГ°Г ГІГЁГІГј Г±Г°ГҐГ¤Г±ГІГўГ , Г­ГҐГ®ГЎГµГ®Г¤ГЁГ¬Г»ГҐ Г¤Г«Гї Г°Г Г§Г°Г ГЎГ®ГІГЄГЁ ГўГ±ГҐГЈГ®
+ГЇГ°Г®ГҐГЄГІГ , ГЇГ®Г±ГЄГ®Г«ГјГЄГі Г±Г­Г Г·Г Г«Г  ГўГ»ГЇГ®Г«Г­ГїГҐГІГ±Гї Г°Г Г§Г°Г ГЎГ®ГІГЄГ  ГЁ Г°ГҐГ Г«ГЁГ§Г Г¶ГЁГї Г®Г±Г­Г®ГўГ­Г®Г© ГґГіГ­ГЄГ¶ГЁГЁ
+ГЁГ«ГЁ ГґГіГ­ГЄГ¶ГЁГЁ ГЁГ§ ГЈГ°ГіГЇГЇГ» ГўГ»Г±Г®ГЄГ®ГЈГ® Г°ГЁГ±ГЄГ ;<span style='mso-spacerun:yes'>В  </span></p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-ускоряется начальный график поставки (что позволяет соответствовать возросшим
-требованиям рынка); </p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+Гў Г°ГҐГ§ГіГ«ГјГІГ ГІГҐ ГўГ»ГЇГ®Г«Г­ГҐГ­ГЁГї ГЄГ Г¦Г¤Г®ГЈГ® ГЁГ­ГЄГ°ГҐГ¬ГҐГ­ГІГ  ГЇГ®Г«ГіГ·Г ГҐГІГ±Гї ГґГіГ­ГЄГ¶ГЁГ®Г­Г Г«ГјГ­Г»Г© ГЇГ°Г®Г¤ГіГЄГІ; </p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-риск распределяется на несколько меньших по размеру инкрементов (не
-сосредоточен в одном большом проекте разработки); </p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+ГіГ±ГЄГ®Г°ГїГҐГІГ±Гї Г­Г Г·Г Г«ГјГ­Г»Г© ГЈГ°Г ГґГЁГЄ ГЇГ®Г±ГІГ ГўГЄГЁ (Г·ГІГ® ГЇГ®Г§ГўГ®Г«ГїГҐГІ Г±Г®Г®ГІГўГҐГІГ±ГІГўГ®ГўГ ГІГј ГўГ®Г§Г°Г®Г±ГёГЁГ¬
+ГІГ°ГҐГЎГ®ГўГ Г­ГЁГїГ¬ Г°Г»Г­ГЄГ ); </p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-в конце каждой инкрементной поставки существует возможность пересмотреть риски,
-связанные с затратами и соблюдением установленного графика. </p>
-
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Недостатки
-инкрементной модели</b>: </p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+Г°ГЁГ±ГЄ Г°Г Г±ГЇГ°ГҐГ¤ГҐГ«ГїГҐГІГ±Гї Г­Г  Г­ГҐГ±ГЄГ®Г«ГјГЄГ® Г¬ГҐГ­ГјГёГЁГµ ГЇГ® Г°Г Г§Г¬ГҐГ°Гі ГЁГ­ГЄГ°ГҐГ¬ГҐГ­ГІГ®Гў (Г­ГҐ
+Г±Г®Г±Г°ГҐГ¤Г®ГІГ®Г·ГҐГ­ Гў Г®Г¤Г­Г®Г¬ ГЎГ®Г«ГјГёГ®Г¬ ГЇГ°Г®ГҐГЄГІГҐ Г°Г Г§Г°Г ГЎГ®ГІГЄГЁ); </p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-в модели не предусмотрены итерации в рамках каждого инкремента; </p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+Гў ГЄГ®Г­Г¶ГҐ ГЄГ Г¦Г¤Г®Г© ГЁГ­ГЄГ°ГҐГ¬ГҐГ­ГІГ­Г®Г© ГЇГ®Г±ГІГ ГўГЄГЁ Г±ГіГ№ГҐГ±ГІГўГіГҐГІ ГўГ®Г§Г¬Г®Г¦Г­Г®Г±ГІГј ГЇГҐГ°ГҐГ±Г¬Г®ГІГ°ГҐГІГј Г°ГЁГ±ГЄГЁ,
+Г±ГўГїГ§Г Г­Г­Г»ГҐ Г± Г§Г ГІГ°Г ГІГ Г¬ГЁ ГЁ Г±Г®ГЎГ«ГѕГ¤ГҐГ­ГЁГҐГ¬ ГіГ±ГІГ Г­Г®ГўГ«ГҐГ­Г­Г®ГЈГ® ГЈГ°Г ГґГЁГЄГ . </p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>ГЌГҐГ¤Г®Г±ГІГ ГІГЄГЁ
+ГЁГ­ГЄГ°ГҐГ¬ГҐГ­ГІГ­Г®Г© Г¬Г®Г¤ГҐГ«ГЁ</b>: </p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-определение полной функциональности системы должно осуществляться в начале
-жизненного цикла, чтобы обеспечить определение инкрементов; </p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+Гў Г¬Г®Г¤ГҐГ«ГЁ Г­ГҐ ГЇГ°ГҐГ¤ГіГ±Г¬Г®ГІГ°ГҐГ­Г» ГЁГІГҐГ°Г Г¶ГЁГЁ Гў Г°Г Г¬ГЄГ Гµ ГЄГ Г¦Г¤Г®ГЈГ® ГЁГ­ГЄГ°ГҐГ¬ГҐГ­ГІГ ; </p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-формальный критический анализ и проверку намного труднее выполнить для
-инкрементов, чем для системы в целом; </p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+Г®ГЇГ°ГҐГ¤ГҐГ«ГҐГ­ГЁГҐ ГЇГ®Г«Г­Г®Г© ГґГіГ­ГЄГ¶ГЁГ®Г­Г Г«ГјГ­Г®Г±ГІГЁ Г±ГЁГ±ГІГҐГ¬Г» Г¤Г®Г«Г¦Г­Г® Г®Г±ГіГ№ГҐГ±ГІГўГ«ГїГІГјГ±Гї Гў Г­Г Г·Г Г«ГҐ
+Г¦ГЁГ§Г­ГҐГ­Г­Г®ГЈГ® Г¶ГЁГЄГ«Г , Г·ГІГ®ГЎГ» Г®ГЎГҐГ±ГЇГҐГ·ГЁГІГј Г®ГЇГ°ГҐГ¤ГҐГ«ГҐГ­ГЁГҐ ГЁГ­ГЄГ°ГҐГ¬ГҐГ­ГІГ®Гў; </p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-поскольку создание некоторых модулей будет завершено значительно раньше других,
-возникает необходимость в четко определенных интерфейсах; </p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+ГґГ®Г°Г¬Г Г«ГјГ­Г»Г© ГЄГ°ГЁГІГЁГ·ГҐГ±ГЄГЁГ© Г Г­Г Г«ГЁГ§ ГЁ ГЇГ°Г®ГўГҐГ°ГЄГі Г­Г Г¬Г­Г®ГЈГ® ГІГ°ГіГ¤Г­ГҐГҐ ГўГ»ГЇГ®Г«Г­ГЁГІГј Г¤Г«Гї
+ГЁГ­ГЄГ°ГҐГ¬ГҐГ­ГІГ®Гў, Г·ГҐГ¬ Г¤Г«Гї Г±ГЁГ±ГІГҐГ¬Г» Гў Г¶ГҐГ«Г®Г¬; </p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-для модели необходимо хорошее планирование и проектирование; </p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+ГЇГ®Г±ГЄГ®Г«ГјГЄГі Г±Г®Г§Г¤Г Г­ГЁГҐ Г­ГҐГЄГ®ГІГ®Г°Г»Гµ Г¬Г®Г¤ГіГ«ГҐГ© ГЎГіГ¤ГҐГІ Г§Г ГўГҐГ°ГёГҐГ­Г® Г§Г­Г Г·ГЁГІГҐГ«ГјГ­Г® Г°Г Г­ГјГёГҐ Г¤Г°ГіГЈГЁГµ,
+ГўГ®Г§Г­ГЁГЄГ ГҐГІ Г­ГҐГ®ГЎГµГ®Г¤ГЁГ¬Г®Г±ГІГј Гў Г·ГҐГІГЄГ® Г®ГЇГ°ГҐГ¤ГҐГ«ГҐГ­Г­Г»Гµ ГЁГ­ГІГҐГ°ГґГҐГ©Г±Г Гµ; </p>
 
 <p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
 mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
-Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>·</span></span>
-может возникнуть тенденция к оттягиванию решений трудных проблем на будущее с
-целью продемонстрировать руководству успех, достигнутый на ранних этапах
-разработки.</p>
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+Г¤Г«Гї Г¬Г®Г¤ГҐГ«ГЁ Г­ГҐГ®ГЎГµГ®Г¤ГЁГ¬Г® ГµГ®Г°Г®ГёГҐГҐ ГЇГ«Г Г­ГЁГ°Г®ГўГ Г­ГЁГҐ ГЁ ГЇГ°Г®ГҐГЄГІГЁГ°Г®ГўГ Г­ГЁГҐ; </p>
+
+<p class=MsoNormal><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>В·</span></span>
+Г¬Г®Г¦ГҐГІ ГўГ®Г§Г­ГЁГЄГ­ГіГІГј ГІГҐГ­Г¤ГҐГ­Г¶ГЁГї ГЄ Г®ГІГІГїГЈГЁГўГ Г­ГЁГѕ Г°ГҐГёГҐГ­ГЁГ© ГІГ°ГіГ¤Г­Г»Гµ ГЇГ°Г®ГЎГ«ГҐГ¬ Г­Г  ГЎГіГ¤ГіГ№ГҐГҐ Г±
+Г¶ГҐГ«ГјГѕ ГЇГ°Г®Г¤ГҐГ¬Г®Г­Г±ГІГ°ГЁГ°Г®ГўГ ГІГј Г°ГіГЄГ®ГўГ®Г¤Г±ГІГўГі ГіГ±ГЇГҐГµ, Г¤Г®Г±ГІГЁГЈГ­ГіГІГ»Г© Г­Г  Г°Г Г­Г­ГЁГµ ГЅГІГ ГЇГ Гµ
+Г°Г Г§Г°Г ГЎГ®ГІГЄГЁ.</p>
 
 </div>
 
